@@ -1,0 +1,24 @@
+Container is store 5 phrases:
+Proverb: Two wrongs don't make a right.  
+Country: Denmark 
+Quotient = 0.06666666666666667
+Aphorism: The pen is mightier than the sword.  
+Author: Ra 
+Quotient = 0.02857142857142857
+Riddle: When in Rome, do as the Romans.  
+Answer: Cesar 
+Quotient = 0.06451612903225806
+Riddle: The squeaky wheel gets the grease.  
+Answer: Deutchland 
+Quotient = 0.029411764705882353
+Proverb: When the going gets tough, the tough get going.  
+Country: No man is an island. 
+Quotient = 0.0425531914893617
+Arithmetic mean = 0.04634383609311947
+Container contains  = 2 phrase(s)
+Proverb: Two wrongs don't make a right.  
+Country: Denmark 
+Quotient = 0.06666666666666667
+Riddle: When in Rome, do as the Romans.  
+Answer: Cesar 
+Quotient = 0.06451612903225806

@@ -1,0 +1,18 @@
+Container is store 4 phrases:
+Aphorism: Always forgive your enemies; nothing annoys them so much.  
+Author: Oscar Wilde 
+Quotient = 0.03508771929824561
+Proverb: Don’t cross the bridge until you come to it.  
+Country: England 
+Quotient = 0.021739130434782608
+Riddle: What gets wetter and wetter the more it dries?  
+Answer: towel 
+Quotient = 0.021739130434782608
+Aphorism: Success does not consist in never making mistakes but in never making the same one a second time.  
+Author: Bernard Shaw 
+Quotient = 0.010309278350515464
+Arithmetic mean = 0.022218814629581574
+Container contains  = 1 phrase(s)
+Aphorism: Always forgive your enemies; nothing annoys them so much.  
+Author: Oscar Wilde 
+Quotient = 0.03508771929824561

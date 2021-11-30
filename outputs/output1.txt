@@ -1,0 +1,3774 @@
+Container is store 1000 phrases:
+Aphorism: blxwmv!#m  
+Author: iko 
+Quotient = 0.2222222222222222
+Proverb: /  
+Country: cyubqua 
+Quotient = 1.0
+Riddle: cuhmwkbmy-jige"sfaoxlngvjxq"  
+Answer: etqmkmkc 
+Quotient = 0.10714285714285714
+Riddle: nwuglxkeko)  
+Answer: exh 
+Quotient = 0.09090909090909091
+Riddle: vtetc&sakk*  
+Answer: pcndars 
+Quotient = 0.18181818181818182
+Riddle: )ghhnum+jcncx*  
+Answer: xngi 
+Quotient = 0.21428571428571427
+Aphorism: d$ol$kwtbkqtq%  
+Author: i 
+Quotient = 0.21428571428571427
+Riddle: wa+/ypwgw+p"dwp  
+Answer: nfz 
+Quotient = 0.26666666666666666
+Aphorism: pweeyhykadpsylkpwmhufaykbdzdnyvwcjcxbjilve/(  
+Author: i 
+Quotient = 0.045454545454545456
+Riddle: zb/.,  
+Answer: vrfrt 
+Quotient = 0.6
+Aphorism: esenmchwn sicz(buyoocivzcbqg'uwqkjwbbivhi/y  
+Author: zbfk 
+Quotient = 0.06976744186046512
+Aphorism: yrrhxnyezgvnynzrmqcodkx"f  
+Author: mbuozw 
+Quotient = 0.04
+Proverb: xplws'wurl  
+Country: zrkawz 
+Quotient = 0.1
+Riddle: qovrtx"sm,lkforniqax  
+Answer: hhvlxynb 
+Quotient = 0.1
+Proverb: !wa"v)w"bse  
+Country: mnrycft 
+Quotient = 0.36363636363636365
+Proverb: l*jjfgtaajhuorqhkd!hnd  
+Country: otelhfz 
+Quotient = 0.09090909090909091
+Aphorism: xigqgzdouisbyjis$qpa&rsqwwtgjhw*aaxflelqgqfrsi  
+Author: fz 
+Quotient = 0.06521739130434782
+Aphorism: zolacodtooyzbgaosuf&atwgylmwyvckcgvt  
+Author: vtrprvv 
+Quotient = 0.027777777777777776
+Proverb: hrgxjmduqq'bvsezcmqqpud#liuiguporzet  
+Country: nhtasqa 
+Quotient = 0.05555555555555555
+Aphorism: ftgfhvvuxw.hgyefygylcvccp)nmev  
+Author: boi 
+Quotient = 0.06666666666666667
+Aphorism: uq/xqgjd/fy#&mitizdthcbvqwhcmhkc  
+Author: zwiswsws 
+Quotient = 0.125
+Aphorism: xftotagrzkfyinpyo,n+ew'  
+Author: vurpp 
+Quotient = 0.13043478260869565
+Proverb: lg-'*%  
+Country: qk 
+Quotient = 0.6666666666666666
+Riddle: prymzpxecaylc",&xzkjzmpck"  
+Answer: kbayjicz 
+Quotient = 0.15384615384615385
+Riddle: yxddfehysscahkbdbffp+qbul  
+Answer: bm 
+Quotient = 0.04
+Aphorism: ulmnwzbi kvaniqxmqdx   
+Author: uuagrqz 
+Quotient = 0.0
+Riddle: wrhr&(apzqnwxev+dlzq/czb  
+Answer: wqjywd 
+Quotient = 0.16666666666666666
+Riddle: ohypnmevwwz-&xvjxodlmuhw  
+Answer: colxlrk 
+Quotient = 0.08333333333333333
+Aphorism: j%kqytevbcxgsvugvmzl'omicmmvmvoaf# ci  
+Author: vespcgrt 
+Quotient = 0.08108108108108109
+Riddle: hpxwod+gqqxxhen  
+Answer: jgsgm 
+Quotient = 0.06666666666666667
+Aphorism: reymhwyolqiwvhhransyxisqseuxfdx-mjlulbjyb  
+Author: v 
+Quotient = 0.024390243902439025
+Proverb: irgq$k-qoucimqbukiasomkxg/fuvrnj  
+Country: ixb 
+Quotient = 0.09375
+Aphorism: krreth%!tlerejadr'  
+Author: rpxpu 
+Quotient = 0.16666666666666666
+Proverb: sygci&vf'uiohcuwqmd  
+Country: uhpb 
+Quotient = 0.10526315789473684
+Proverb: my$pa)  
+Country: unybjbmj 
+Quotient = 0.3333333333333333
+Proverb: rrnomzbns/muojayojnrmx  
+Country: dzl 
+Quotient = 0.045454545454545456
+Proverb: *dfpw(c"sybzthhnqgzmtmkmmselmnzgiep!doxdiuq  
+Country: we 
+Quotient = 0.09302325581395349
+Proverb: ohug,cguicciyeoujqtvutqs  
+Country: fzda 
+Quotient = 0.041666666666666664
+Aphorism: rqxi(kkwxwbsdwhi  
+Author: ippvxv 
+Quotient = 0.0625
+Aphorism: gztly'noc!-ens  
+Author: dfcqyy 
+Quotient = 0.21428571428571427
+Proverb: oi-uznhuaoycjrjjjaruefd+etl%)mxfuvpvmf  
+Country: wvfzhngk 
+Quotient = 0.10526315789473684
+Aphorism: rtumsqbukwnyehctesras.rgjxfjmmo  
+Author: uq 
+Quotient = 0.03225806451612903
+Aphorism: o auf)vdlfuzhum!tezzvngitzqtqzkzvtfxxqvbvmc  
+Author: om 
+Quotient = 0.046511627906976744
+Aphorism: $ckfmqhicczfxjrhsrecruwgi-oyzvigyq+me  
+Author: obfhfjo 
+Quotient = 0.08108108108108109
+Riddle: txxqvg&c!"goodja'  
+Answer: steo 
+Quotient = 0.23529411764705882
+Riddle: tvg-jekwqyiwc'o-   
+Answer: xlc 
+Quotient = 0.17647058823529413
+Riddle: tkopvogchzpicik)qzktgarbjfqxjxdtr  
+Answer: gfqgnqcg 
+Quotient = 0.030303030303030304
+Riddle: dwygkbkdsan zznqyizkjksoqbnyizkenqkcfdpu  
+Answer: i 
+Quotient = 0.0
+Aphorism: .zjcida'e%hpmpcucunqu'  
+Author: lov 
+Quotient = 0.18181818181818182
+Proverb: qzhuneuyba'wzmmmzpe,*   
+Country: jgn 
+Quotient = 0.13636363636363635
+Proverb: aw%bx/  
+Country: mbsj 
+Quotient = 0.3333333333333333
+Aphorism: b'jp'im  
+Author: dogewmgd 
+Quotient = 0.2857142857142857
+Riddle: -rrjmijictl!kynnwedbnb  
+Answer: rb 
+Quotient = 0.09090909090909091
+Riddle: cpkvpivbipykogctyydeunnerjc%zxgvs  
+Answer: lfzyapr 
+Quotient = 0.030303030303030304
+Proverb: k'fxsgxqcpt xzbmn#  
+Country: sny 
+Quotient = 0.1111111111111111
+Riddle: qc#n!jrxflvqk/ece  
+Answer: qnbdbgkr 
+Quotient = 0.17647058823529413
+Aphorism: skxfd-flewftrfdyeutri#pxoofvqukln  
+Author: cu 
+Quotient = 0.06060606060606061
+Proverb: vw$hdfa"  
+Country: kmuwbd 
+Quotient = 0.25
+Aphorism: d.z  
+Author: f 
+Quotient = 0.3333333333333333
+Riddle: gcwscdulyjxstytmwofoxnxf'fty  
+Answer: vq 
+Quotient = 0.03571428571428571
+Proverb: tevsxbbx.oolwig  
+Country: hv 
+Quotient = 0.06666666666666667
+Proverb: strpsrsavvxyeelxyv!qph"oxo  
+Country: ezixjtpi 
+Quotient = 0.07692307692307693
+Aphorism: vbvywvzpiwabxdyywgwd bh  
+Author: lbomvy 
+Quotient = 0.0
+Aphorism: i%j&fsvyomngcnxbsd*  
+Author: yhhip 
+Quotient = 0.15789473684210525
+Proverb: bcffzjluythhaedjolajpyedlsqtmbxjk/wh  
+Country: nqjp 
+Quotient = 0.027777777777777776
+Aphorism: ,qtyw  
+Author: rxeb 
+Quotient = 0.2
+Riddle: xicdjbzgrrwjcmbsyhe%vp/bugamapl+h-agsrid  
+Answer: afkljnol 
+Quotient = 0.1
+Riddle: icajiyswbyoxvyroyolyxvzafujastpretpcm-cxwocgqyhxc  
+Answer: zxsdoe 
+Quotient = 0.02040816326530612
+Riddle: egyhecvczthheiqgldzfjsw solbacxkfc%v  
+Answer: vy 
+Quotient = 0.027777777777777776
+Riddle: %anxhs +  
+Answer: vrt 
+Quotient = 0.25
+Proverb: huu+uwirsxg!o#dksonkqxlz  
+Country: b 
+Quotient = 0.125
+Proverb: fyewtybopaavnpwmkw)cdaextpenghpv$n  
+Country: rcow 
+Quotient = 0.058823529411764705
+Riddle: hlyxe"pipdfk)qlgceuzg&bezanhykrvxzskw+gh  
+Answer: rnivm 
+Quotient = 0.1
+Riddle: "xus+  
+Answer: vztl 
+Quotient = 0.4
+Proverb: .fxcqcgbgtjcplgnkkggub uunri.z"urtmvq  
+Country: eu 
+Quotient = 0.08108108108108109
+Aphorism: fxnfoqjokeeexmwiab.yva)  
+Author: fmfjfpbe 
+Quotient = 0.08695652173913043
+Aphorism: abyvjwvnrlgajjz+xdsxtopbsgdhktkgztigy/yglur  
+Author: mxvtirnb 
+Quotient = 0.046511627906976744
+Aphorism: #snxpltoxyfiglpbdbo".puyxtnaxtrsmbb/lvyefd  
+Author: cle 
+Quotient = 0.09523809523809523
+Aphorism: bgcitetmqeoybl*ucxva  
+Author: bec 
+Quotient = 0.05
+Aphorism: wz!iqnzomxqbytjlple!icpjooolcxn!wnpdcaarozdps  
+Author: ctbhfz 
+Quotient = 0.06666666666666667
+Proverb: irrcxhs.hek  
+Country: lz 
+Quotient = 0.09090909090909091
+Aphorism: "qjywd%fakim#oslnaudbnljyncmpzvkkcqhajlvr  
+Author: yxf 
+Quotient = 0.07317073170731707
+Proverb: b/ee-umn  
+Country: qd 
+Quotient = 0.25
+Proverb: $)  
+Country: tpdbrpq 
+Quotient = 1.0
+Riddle: +tsrcaisuorrzfxpwnkaix  
+Answer: zfrba 
+Quotient = 0.045454545454545456
+Aphorism: "twznarfwlzqqz  
+Author: pvi 
+Quotient = 0.07142857142857142
+Riddle: uiztoawqhxjqmkozevq vaykze  
+Answer: xgejxi 
+Quotient = 0.0
+Aphorism: v!"zvtfde#rdehcljk  
+Author: idovkkc 
+Quotient = 0.16666666666666666
+Riddle: tgnvrsbxtjbniguafnwkreda.dqzvklepfhixldpwoslrf  
+Answer: dhk 
+Quotient = 0.021739130434782608
+Riddle: ztfz$withzsdg/iesvn.gzvgflhpmgnmyhdr  
+Answer: lzvqi 
+Quotient = 0.08333333333333333
+Proverb: bjkiy"nn*nrpup/sxicvbwqtnttjfpfg"sq  
+Country: y 
+Quotient = 0.11428571428571428
+Aphorism: *&kmjk   
+Author: q 
+Quotient = 0.2857142857142857
+Aphorism: zsgmvqwqzxbqeeja*melk/cuhtrjbrnzr  
+Author: eylvsm 
+Quotient = 0.06060606060606061
+Riddle: ttt*  
+Answer: apzzw 
+Quotient = 0.25
+Proverb: ptz!)a/  
+Country: zvfzuj 
+Quotient = 0.42857142857142855
+Aphorism: hnfbt%axjnkzugp!iceejya,nxm   
+Author: ldrcdsr 
+Quotient = 0.10714285714285714
+Proverb: jakzfpldvcrnyl+u  
+Country: o 
+Quotient = 0.0625
+Proverb: yqchz-jwx*o  
+Country: vgcevv 
+Quotient = 0.18181818181818182
+Proverb: tdpgomskza,vfq'.eywguymd syslsitsufcuhtuoqrwh  
+Country: x 
+Quotient = 0.06666666666666667
+Riddle: npfpiarfx/pur  
+Answer: rk 
+Quotient = 0.07692307692307693
+Riddle: w*vn,,  
+Answer: uwjuel 
+Quotient = 0.5
+Riddle: kmg$xfwbl)"p+  
+Answer: dxh 
+Quotient = 0.3076923076923077
+Proverb: oqsqywbyimtw.bmnlzmwqanbfsw  
+Country: smfmvbe 
+Quotient = 0.037037037037037035
+Proverb: qaof%kzasmnudgyurtxs/  
+Country: yfmq 
+Quotient = 0.09523809523809523
+Riddle: fivda ke%c  
+Answer: jmsgwqzj 
+Quotient = 0.1
+Proverb: txstvpwflbmabmsnycnxbakkqsxpgrt*n  
+Country: ai 
+Quotient = 0.030303030303030304
+Aphorism: dcifzel+lzoqpljuaiq  
+Author: sd 
+Quotient = 0.05263157894736842
+Riddle: g'!l'jlwdpptyxdogzotktv.  
+Answer: u 
+Quotient = 0.16666666666666666
+Aphorism: (  
+Author: qdnxzi 
+Quotient = 1.0
+Proverb: +z#  
+Country: aate 
+Quotient = 0.6666666666666666
+Aphorism: ikksmxoivgeckkfbaqmowvfo%lbnrfneuauylcgxppve  
+Author: lwhzcdo 
+Quotient = 0.022727272727272728
+Riddle: ct!qqtuozvnakwczjefrldxoevlv.wufczvzxdqktrgelpaj  
+Answer: xancketh 
+Quotient = 0.041666666666666664
+Aphorism: y(zh$jf%  
+Author: eisr 
+Quotient = 0.375
+Riddle: vjewhjjaisrdoyss$omfk/sicya!sgau#dpcwjz  
+Answer: tjvpxelm 
+Quotient = 0.10256410256410256
+Riddle: zizafuv drahxtesrxjqnyfqrwxfyxun  
+Answer: atretrp 
+Quotient = 0.0
+Aphorism: jaa'!hjx!rcjb ujx  
+Author: xsevvur 
+Quotient = 0.17647058823529413
+Proverb: axm"pb#rfzbwkhnnurvcqc,aqupjx  
+Country: sxpz 
+Quotient = 0.10344827586206896
+Riddle: uv!,  
+Answer: dbrk 
+Quotient = 0.5
+Riddle: s-zuipsznrqoclgmgvggsh  
+Answer: imxzje 
+Quotient = 0.045454545454545456
+Aphorism: kchm.c!adzfcdavqbyttvvdtbrtxrskwxjt  
+Author: vewtzlwt 
+Quotient = 0.05714285714285714
+Aphorism: uvqxekh+mfdshydi'mp&kheo!  
+Author: jwomasfv 
+Quotient = 0.16
+Riddle: ppa$n  
+Answer: gfk 
+Quotient = 0.2
+Proverb: eitkga#m#  
+Country: yyyebeib 
+Quotient = 0.2222222222222222
+Aphorism: #y!  
+Author: dufhamb 
+Quotient = 0.6666666666666666
+Aphorism: zllrayew$qicyjhapzzdblxtrioprxcow br   
+Author: e 
+Quotient = 0.02702702702702703
+Proverb: yvzixafzgitibdejkfccufanguqsg&gkgpd  
+Country: z 
+Quotient = 0.02857142857142857
+Aphorism: xmsfmqflgd tg)aiaeagzxyxjzqnnd&  
+Author: hlyqdrxn 
+Quotient = 0.06451612903225806
+Riddle: iokyqpanjznorp*hcghcrejxehsplzhshwjfinrefgoubv  
+Answer: zgynzwh 
+Quotient = 0.021739130434782608
+Proverb: adzzvvr/cymqetafuxtakrcfoaftcfttog*b%ys%  
+Country: usqacoy 
+Quotient = 0.1
+Proverb: yotvaojesogbe!eaatfnielsbm  
+Country: t 
+Quotient = 0.038461538461538464
+Proverb: +  
+Country: z 
+Quotient = 1.0
+Riddle: fynfvfsr(hbmcvybbtxvhpca cqclo  
+Answer: bbbsrne 
+Quotient = 0.03333333333333333
+Proverb: %  
+Country: xsf 
+Quotient = 1.0
+Riddle: frarxgzymhdzbb&hlcerjpsyvovl.lpo  
+Answer: mtt 
+Quotient = 0.0625
+Proverb: id-)osupx)f  
+Country: motbkbt 
+Quotient = 0.2727272727272727
+Riddle: &&  
+Answer: ljnnmtw 
+Quotient = 1.0
+Proverb: eoehkmqhlucrohqw'dlnt*uznweb  
+Country: oyhdq 
+Quotient = 0.07142857142857142
+Aphorism: pxtzn-c/ywfjopodooonnlf*fdpxguntvzgvnhbpspacymj/  
+Author: zdbs 
+Quotient = 0.08333333333333333
+Riddle: zy&mtvesf/)qomc.  
+Answer: oioieabn 
+Quotient = 0.25
+Aphorism: u qspu/rgzth#flpdmxmh"phsovbsp  
+Author: fwgecdf 
+Quotient = 0.1
+Riddle: vbswjptuhzybdelhheq/vdxmvjv!qvjq%*  
+Answer: rhxbq 
+Quotient = 0.11764705882352941
+Aphorism: dhinaezyzhzc!uoctswceioc#kmbhk zjipa  
+Author: vdwc 
+Quotient = 0.05555555555555555
+Riddle: v,mtrbaevhzu(koyoklywuewenkfmrvwc.y  
+Answer: sxwx 
+Quotient = 0.08571428571428572
+Aphorism: oovinqu%ksypecdrgpupkb'gqcjnyydlpaikcl)jhqajecx&  
+Author: luzbj 
+Quotient = 0.08333333333333333
+Riddle: paqzkujjsu)cdimesxo  
+Answer: nhoewbm 
+Quotient = 0.05263157894736842
+Aphorism: olb)eqqwl/&pxqfze  
+Author: m 
+Quotient = 0.17647058823529413
+Aphorism: cuhzzoeisdpop'dswcsfjb/ixj!prw.moayualk  
+Author: ceplmb 
+Quotient = 0.10256410256410256
+Proverb: vexe,yqn"  
+Country: emuzab 
+Quotient = 0.2222222222222222
+Proverb: nr.!+  
+Country: apcrl 
+Quotient = 0.6
+Proverb: tnb#wdu nrladrnduqgccpppcfecbumbe.lscr'  
+Country: nqfonty 
+Quotient = 0.07692307692307693
+Aphorism: dlkafuhilyzjwwg'coatafiykczpjlhtrfnwzj)b-  
+Author: zxgtws 
+Quotient = 0.07317073170731707
+Aphorism: djkr/ebqcrz%rgqdvprjlvtrgqqulflp.f,kjtkbhhjvma  
+Author: chwhcwi 
+Quotient = 0.08695652173913043
+Aphorism: $mqfos!vd*  
+Author: s 
+Quotient = 0.3
+Riddle: l#  
+Answer: q 
+Quotient = 0.5
+Aphorism: w/jqznbtf,vti  
+Author: qbcqg 
+Quotient = 0.15384615384615385
+Riddle: f,ecqcijcdfinp  
+Answer: dwv 
+Quotient = 0.07142857142857142
+Aphorism: $  
+Author: t 
+Quotient = 1.0
+Proverb: lcsdkajce"gx/rthtbmn  
+Country: ofoad 
+Quotient = 0.1
+Proverb: j,opo%p&#  
+Country: t 
+Quotient = 0.4444444444444444
+Riddle: hru(lrfkpggakihkpy*wjwfszpxwenx%hhrwudpkopi,  
+Answer: uychya 
+Quotient = 0.09090909090909091
+Proverb: mdsoil*y#asthhc"  
+Country: qcrb 
+Quotient = 0.1875
+Proverb: md!hwosehctiandjivpuquzqaymw'zyt-hi+  
+Country: fukgasx 
+Quotient = 0.1111111111111111
+Riddle: mlx)zey+xz )  
+Answer: uvqv 
+Quotient = 0.25
+Aphorism: v&  
+Author: xxvj 
+Quotient = 0.5
+Proverb: hghqsozsyj&loz-tk!%  
+Country: pgxslf 
+Quotient = 0.21052631578947367
+Aphorism: vdzcgnkqruph.(jq  
+Author: hwzsgdew 
+Quotient = 0.125
+Riddle: tqoyeupfhwreoomhvttrtgcwgql(wjpso*flkcum'$  
+Answer: qc 
+Quotient = 0.09523809523809523
+Proverb: ,  
+Country: skdo 
+Quotient = 1.0
+Proverb: e.yuqdbgwbnoepconarnm.eccfqr/rqadsmahmg#kzrq  
+Country: oseig 
+Quotient = 0.09090909090909091
+Proverb: gshznuz#  
+Country: vwtd 
+Quotient = 0.125
+Riddle: o$lcujxmlpfjewbobrewykqojupvkmnepshhadmstsgaqgggd  
+Answer: vip 
+Quotient = 0.02040816326530612
+Proverb: futsmpybmpdbnobthfwywrjcicxt)%sszajyjsou  
+Country: aa 
+Quotient = 0.05
+Riddle: hgthusbzu&ifmije(ggfdvwj.axgmxobdllbqdniksveiv  
+Answer: pdtqrlaq 
+Quotient = 0.06521739130434782
+Proverb: "lfrrkcobkuu(sz.  
+Country: j 
+Quotient = 0.1875
+Riddle: voshssahewbhahphtcmsxqvstlfccep'g%v(qnjnqvm  
+Answer: nvlae 
+Quotient = 0.06976744186046512
+Proverb: jhtjfiycrzicrtplwczvxy(*yjgbmgzoabevc g  
+Country: qk 
+Quotient = 0.05128205128205128
+Aphorism: /gr  
+Author: jyuguqh 
+Quotient = 0.3333333333333333
+Aphorism: tjnbxg$mxxmfrcbwqquzujxm  
+Author: gtnniv 
+Quotient = 0.041666666666666664
+Proverb: sdeued"caltqmgtzvda&vyzjpaznywwacuwwzdegx  
+Country: l 
+Quotient = 0.04878048780487805
+Proverb: fbvnmfepxoakks-ut&ekbvkhol'pcmyw$  
+Country: mdemetbu 
+Quotient = 0.12121212121212122
+Riddle: rvsnvyifgrlgzbz"zlmv.lbt-pkskhsg  
+Answer: lymmil 
+Quotient = 0.09375
+Aphorism: bwsrmwrczm*bmsvirrhcanupffbxkkbfcjkp$  
+Author: ctmhguc 
+Quotient = 0.05405405405405406
+Aphorism: izymcqhd,weubw  
+Author: kutiu 
+Quotient = 0.07142857142857142
+Riddle: t(abuxtzmqfcnikaybzwmbsncriqxpbtpdbzgwtp#$olvmj  
+Answer: vjgfvgqc 
+Quotient = 0.06382978723404255
+Riddle: jcotescvdzduvugp-(ofvngdet+agvhbnbrsvhxm  
+Answer: ysnc 
+Quotient = 0.075
+Aphorism: &%  
+Author: qery 
+Quotient = 1.0
+Proverb: ojlxaffzexifpawt&izl!vhaoowu  
+Country: r 
+Quotient = 0.07142857142857142
+Aphorism: vihebfpgx*fihdnpxxzatxr,ydvuqnaa  
+Author: vju 
+Quotient = 0.0625
+Riddle: idcbmdekn.kd  
+Answer: jcbcwpr 
+Quotient = 0.08333333333333333
+Riddle: twrwzk,pntzsntxptocqfhxlhqbfeyuwmeqykzdwel  
+Answer: pcfmftb 
+Quotient = 0.023809523809523808
+Proverb: jxqznohgnivjxmllcjyqpilhewkeagj&nblordtjvt  
+Country: jq 
+Quotient = 0.023809523809523808
+Proverb: x#n  
+Country: vjpsch 
+Quotient = 0.3333333333333333
+Aphorism: q-&grwcsze  
+Author: kjqnu 
+Quotient = 0.2
+Riddle: wdfavk"tcshybxnknlailfhhtf!iwkqkcltbjpi  
+Answer: axo 
+Quotient = 0.05128205128205128
+Proverb: obquli%jisvyhovgrimwlbfawjzbfxaoq dqgdzmwmmpquy  
+Country: kypwzhgz 
+Quotient = 0.02127659574468085
+Aphorism: dxof+vjzhsgtfzclbaouhid(zbrtqxvtibqa*+  
+Author: tkkea 
+Quotient = 0.10526315789473684
+Riddle: hryxqeu,nwatrtwnnwijqwdgg  
+Answer: c 
+Quotient = 0.04
+Proverb: *pjomoamucriuvxjime-bhrlquzfnfr  
+Country: tv 
+Quotient = 0.06451612903225806
+Riddle: jhl"xzwk$,lksalxdll  
+Answer: dfoytg 
+Quotient = 0.15789473684210525
+Riddle: ,  
+Answer: hgdt 
+Quotient = 1.0
+Aphorism: gicn/gzmos)gb czsu  
+Author: euz 
+Quotient = 0.1111111111111111
+Riddle: pzegoq)dptojbx*bdtfuqdksutraxbj#xiyc+eey  
+Answer: fomg 
+Quotient = 0.1
+Aphorism: *  
+Author: ehldz 
+Quotient = 1.0
+Proverb: gdp&inmzmb!(cmcrnvq  
+Country: brcnrhz 
+Quotient = 0.15789473684210525
+Aphorism: llrmiztqu!t,fb!xnbqbngrjn  
+Author: noqhndt 
+Quotient = 0.12
+Aphorism: -#n(l  
+Author: ivoefedl 
+Quotient = 0.6
+Aphorism: sz-ixfz"xqtuifzmn  
+Author: slao 
+Quotient = 0.11764705882352941
+Riddle: n.*qteyvwsulmyulmbuj   
+Answer: urmlnm 
+Quotient = 0.09523809523809523
+Riddle: kws/   
+Answer: hnp 
+Quotient = 0.2
+Riddle: ihbpxj/exprrwkdhxdpopjqtzklzesqzhpcj  
+Answer: ovobd 
+Quotient = 0.027777777777777776
+Proverb: nk$wsmfpktlltpgupbtqoebfpbgqiqfwlqumt+dvdgned%+  
+Country: ht 
+Quotient = 0.0851063829787234
+Proverb: xtwtqf+fptapedt&jzxnmllas,rgqwwds  
+Country: uiittm 
+Quotient = 0.09090909090909091
+Aphorism: axqw whm)+  
+Author: r 
+Quotient = 0.2
+Riddle: tu"gaiqdcgbvu*xvtgu&jtwa  
+Answer: sqpzm 
+Quotient = 0.125
+Riddle: $d*  
+Answer: zoj 
+Quotient = 0.6666666666666666
+Riddle: cs%rr%mfcjyopegbkwc  
+Answer: ckdj 
+Quotient = 0.10526315789473684
+Aphorism: magekcekmukwfbckbdlnrlqqitizu.cqkyhadyrw gwnbr  
+Author: rpybo 
+Quotient = 0.021739130434782608
+Riddle: h(jfzrkbfctsjqeguoqygnvssaifidzbraqf  
+Answer: eothwoxy 
+Quotient = 0.027777777777777776
+Aphorism: rf)rbeqot,k  
+Author: jimyopb 
+Quotient = 0.18181818181818182
+Riddle: vln-irp  
+Answer: moqzud 
+Quotient = 0.14285714285714285
+Riddle: h*-  
+Answer: b 
+Quotient = 0.6666666666666666
+Aphorism: aukgnzp)ohi  
+Author: qjr 
+Quotient = 0.09090909090909091
+Proverb: qtlxkx-ebkkrdopsszqydkmahlyfextcaso,mfgouegdmhfr  
+Country: rrvw 
+Quotient = 0.041666666666666664
+Proverb: t.pwozgqjyg&ei/l  
+Country: ue 
+Quotient = 0.1875
+Proverb: %'  
+Country: h 
+Quotient = 1.0
+Proverb: ls-jo$ywthudiilbntnha+bveurbdmzdrdqt-w  
+Country: h 
+Quotient = 0.10526315789473684
+Proverb: nwwftbfwcrdo(gmkkflofywbb  
+Country: r 
+Quotient = 0.04
+Proverb: spehcebpqfdfrmzmeoe)ei  
+Country: sbzuzdrd 
+Quotient = 0.045454545454545456
+Aphorism: %  
+Author: gpgkea 
+Quotient = 1.0
+Riddle: pgldjcfb*nwox eh.vgsnxsqpyndvxasxhfbaytqn  
+Answer: h 
+Quotient = 0.04878048780487805
+Aphorism: uznut dkofrcsomkaopdtcnz.mpglmujjpynjmlpbmbt  
+Author: rgp 
+Quotient = 0.022727272727272728
+Proverb: qsustueah()teyo.cghoigc  
+Country: bfhss 
+Quotient = 0.13043478260869565
+Aphorism: pd(.ks$  
+Author: kiz 
+Quotient = 0.42857142857142855
+Riddle: valhjwweabcfuindsjypbyvhonrhz-gva  
+Answer: lurg 
+Quotient = 0.030303030303030304
+Riddle: sfxbls,zjqiiruodr.vlqeqeiarzzoxd  
+Answer: mzav 
+Quotient = 0.0625
+Proverb: pizmzkob!gvbmidspixazkxneuktsmgvshyunindsliwbf  
+Country: vrh 
+Quotient = 0.021739130434782608
+Aphorism: zmrluuth/lim  
+Author: yup 
+Quotient = 0.08333333333333333
+Riddle: hhtdfes+yuyzws#lojo  
+Answer: vjboexz 
+Quotient = 0.10526315789473684
+Riddle: xq#zjepzmuw&crsjvgdhszlvutot'  
+Answer: qcgrluv 
+Quotient = 0.10344827586206896
+Proverb: xhsdt +ppqxkgsxaoccbyxdncxagd.omg  
+Country: she 
+Quotient = 0.06060606060606061
+Proverb: wpejwk(cucfrjqy  
+Country: kwizp 
+Quotient = 0.06666666666666667
+Aphorism: ytqvvarxz!jpr#vayuajdpy  
+Author: yi 
+Quotient = 0.08695652173913043
+Riddle: ph!yn'onmj&  
+Answer: uoc 
+Quotient = 0.2727272727272727
+Aphorism: ycwsdp!  
+Author: oaodjdp 
+Quotient = 0.14285714285714285
+Riddle: pgyqjtusg"oqio  
+Answer: gqiv 
+Quotient = 0.07142857142857142
+Aphorism: 'z x,  
+Author: xytva 
+Quotient = 0.4
+Riddle: ycadbumwg$jxh(   
+Answer: x 
+Quotient = 0.13333333333333333
+Riddle: xvhrrrxzd+qupltqwsvk$cydykiigag'  
+Answer: grcsw 
+Quotient = 0.09375
+Riddle: c*oyd&prskp  
+Answer: ocu 
+Quotient = 0.18181818181818182
+Aphorism: )sid  
+Author: eo 
+Quotient = 0.25
+Proverb: t(tgrfwmq  
+Country: tavvub 
+Quotient = 0.1111111111111111
+Proverb: hc ibezhfewogfmfve-zqeyemucdiljtuzffvooaylnqcrl  
+Country: jl 
+Quotient = 0.02127659574468085
+Riddle: btt'tfnfbhhmglhggqzcrutjhy%ncahtywdrv  
+Answer: aobeb 
+Quotient = 0.05405405405405406
+Aphorism: ympkvlmhupvwslk$rhkjbmlfimgwxuvujpwwuv)xm  
+Author: hja 
+Quotient = 0.04878048780487805
+Aphorism: ye#bostcdjimtsrvdvh*baidwwzddo  
+Author: cp 
+Quotient = 0.06666666666666667
+Aphorism: e omwpbwluygilderswvv  
+Author: p 
+Quotient = 0.0
+Aphorism: rrsmkyhhmp)#mwyg!pflyohlkqaojyjwuhy  
+Author: enw 
+Quotient = 0.08571428571428572
+Proverb: xgfvhnesfiixgejilvjbppu$meoiykemw'vssb&h  
+Country: blj 
+Quotient = 0.075
+Aphorism: di#uazbp(aakbsty   
+Author: kkmgbqzz 
+Quotient = 0.11764705882352941
+Proverb: vb/  
+Country: inn 
+Quotient = 0.3333333333333333
+Proverb: kxnrar*vgdyv&,  
+Country: cu 
+Quotient = 0.21428571428571427
+Riddle: hstnevdjkhnkkqtzfroqssj*bjdagklevdmepbjvqigomuiz  
+Answer: rg 
+Quotient = 0.020833333333333332
+Proverb: wdflsmsbcstfggjiq)dtpvudu!pyizbzuqzgjrbvehwy  
+Country: mcily 
+Quotient = 0.045454545454545456
+Riddle: mpuvxteffq*tutd ndgkbqqqryli  
+Answer: f 
+Quotient = 0.03571428571428571
+Riddle: ufjhh$olklqpaqld p,yhvvizxjxdyugsyoi  
+Answer: nfo 
+Quotient = 0.05555555555555555
+Proverb: u(klvnbxviuggqruwgstfewnypg-glihpgc)rs/  
+Country: p 
+Quotient = 0.10256410256410256
+Riddle: mmgxw/noacag,bstfahwd ukbqwuuqsjlk  
+Answer: iig 
+Quotient = 0.058823529411764705
+Aphorism: )yarz"oqsyounusprroxqkeus  
+Author: ubymfn 
+Quotient = 0.08
+Proverb: evxlagso$khruvbyct$atrfyrau  
+Country: txrqj 
+Quotient = 0.07407407407407407
+Aphorism: tprrisi$ttyqc%xlfmdpkvfymj!ofn#tvfkzrrprh  
+Author: w 
+Quotient = 0.0975609756097561
+Proverb: nqr$oduvgnxxa'bxfiytfdzuukalrvtvmcaj)iuvrfl  
+Country: hycqacr 
+Quotient = 0.06976744186046512
+Aphorism: aoj swmt!&gcv  
+Author: ljyujguz 
+Quotient = 0.15384615384615385
+Riddle: lktlvedrmjdnfzwbxsgjzvooap(ucnnpoi  
+Answer: drqec 
+Quotient = 0.029411764705882353
+Aphorism: %scoefc*yhvttl!  
+Author: xnamns 
+Quotient = 0.2
+Riddle: e.ztugovngpkvdfisjvh xgbebmw  
+Answer: jac 
+Quotient = 0.03571428571428571
+Riddle: misvjmmayurrsjbtfelzdbhuftiotkvqxniihui)hl  
+Answer: dcuk 
+Quotient = 0.023809523809523808
+Proverb: ,+  
+Country: uzniez 
+Quotient = 1.0
+Proverb: huft+d"  
+Country: lo 
+Quotient = 0.2857142857142857
+Aphorism: oexbsxltbuqxuwsldmnydtajlyghyfbwa,  
+Author: ynqimfc 
+Quotient = 0.029411764705882353
+Proverb: rrpkxqvcn'b  
+Country: jmdhir 
+Quotient = 0.09090909090909091
+Proverb: nvgx!wsfcjtxnrzrxlsrbqhhizo  
+Country: i 
+Quotient = 0.037037037037037035
+Aphorism: %vraewvibovzkifagbsnuyewhdb!ekwdk*cwbmqmnarfamf  
+Author: n 
+Quotient = 0.06382978723404255
+Proverb: -eii  
+Country: yan 
+Quotient = 0.25
+Proverb: imdirp(wzorjt  
+Country: osqv 
+Quotient = 0.07692307692307693
+Riddle: tpawuvpcdhkpxhrbzthk.agvoimtexfab)pjj"i,  
+Answer: rhy 
+Quotient = 0.1
+Proverb: mirkkqb!xgiyilbnodveticw  
+Country: cvsm 
+Quotient = 0.041666666666666664
+Riddle: ctgsf&  
+Answer: zsnsz 
+Quotient = 0.16666666666666666
+Aphorism: omdvvmmuxcuehxrlgncqrnomxg.  
+Author: ktorr 
+Quotient = 0.037037037037037035
+Proverb: njyogqxjpj'yepixlfyr/wh&h%ijqlhxqyrmumbtii  
+Country: vso 
+Quotient = 0.09523809523809523
+Riddle: urmwc"bygvrsjbgumwwvgxmgmttzkifqelkcbluqgo  
+Answer: o 
+Quotient = 0.023809523809523808
+Aphorism: yghmrwplvhsuszngyrpcumu-cuxj  
+Author: wbpaflv 
+Quotient = 0.03571428571428571
+Aphorism: hpncayyzsahogpjsbgmdoh.dwxigihqjb-mabjttdg  
+Author: neczsju 
+Quotient = 0.047619047619047616
+Proverb: onwqwgvkqoajt+tyvhazfa  
+Country: uodmrghc 
+Quotient = 0.045454545454545456
+Riddle: utcm#mxoemidslxdqw(rzrtyrhumvyybcw'boxonrsctd  
+Answer: t 
+Quotient = 0.06666666666666667
+Aphorism: efypylybnla-mhvpsrbntr"pmxke(vl%ozls  
+Author: o 
+Quotient = 0.1111111111111111
+Riddle: mtt(sspmbjjz%iijmrdgmiy  
+Answer: iciip 
+Quotient = 0.08695652173913043
+Proverb: ytshqhgmnst)kuj  
+Country: ckulizj 
+Quotient = 0.06666666666666667
+Aphorism: j ulm  
+Author: ewyl 
+Quotient = 0.0
+Riddle: mcpowgqxitsszllclq-agugutwzujo  
+Answer: posx 
+Quotient = 0.03333333333333333
+Aphorism: qls#z,  
+Author: yeuduf 
+Quotient = 0.3333333333333333
+Proverb: jhn$udlhvcfweoyentequdibe!e)k/  
+Country: ghzndoze 
+Quotient = 0.13333333333333333
+Riddle: mqfmr,cezwshvwrtmpinmgnpyilszrvssekuhko  
+Answer: ov 
+Quotient = 0.02564102564102564
+Proverb: -%  
+Country: pbmwm 
+Quotient = 1.0
+Aphorism: tmdjsgsrocxud,ufwp&pklczk  
+Author: ewdhse 
+Quotient = 0.08
+Aphorism: y(gqcxgp.)  
+Author: hsador 
+Quotient = 0.3
+Proverb: wx(+a.  
+Country: nd 
+Quotient = 0.5
+Aphorism: j-n%g!ta  
+Author: eyjo 
+Quotient = 0.375
+Proverb: njessvgkitphjjepfrh#tc(nzdkcmnkdftunggvggl  
+Country: ymsqs 
+Quotient = 0.047619047619047616
+Riddle: lwtphxfgy.adtct-jgtjamgcecp)ukudbdymmekwpvoik  
+Answer: ziygkczw 
+Quotient = 0.06666666666666667
+Riddle: rxn*rt%xpq.  
+Answer: otke 
+Quotient = 0.2727272727272727
+Aphorism: tehspnacxsvbtrrbvcybiylpfbfauxn)!biplwymmxb!rgc  
+Author: elmxpab 
+Quotient = 0.06382978723404255
+Riddle: 'aivmdmhupbkjmlztuzjuv(iofz'kimk$mpunktzjd  
+Answer: tefdgiv 
+Quotient = 0.09523809523809523
+Proverb: mieo.rbxpahzicnnxhdhxnoq'stnnywqyt+  
+Country: htyd 
+Quotient = 0.08571428571428572
+Riddle: ltd#at/,ruzpsbbdrvhnrkh  
+Answer: b 
+Quotient = 0.13043478260869565
+Riddle: bl'bvjkqgo/ot,f  
+Answer: slpite 
+Quotient = 0.2
+Aphorism: gojibjz/rttperdusuvbjuw#i#knr  
+Author: m 
+Quotient = 0.10344827586206896
+Riddle: pur$nouxd"yhlojufxkvqidpptr+ccs)ygsvouu  
+Answer: kwuaiq 
+Quotient = 0.10256410256410256
+Riddle: qidjrpyrw!adc&qe.wypflkvj.  
+Answer: pdwz 
+Quotient = 0.15384615384615385
+Aphorism: fpsqgtqjcoweceboktxbnm"ncxry,io  
+Author: gkbj 
+Quotient = 0.06451612903225806
+Proverb: nilrarhreuhjokulopkbynewbdsifir"cf. gh  
+Country: li 
+Quotient = 0.05263157894736842
+Proverb: odzqq/supwsznyesanrr!z  
+Country: orulcdab 
+Quotient = 0.09090909090909091
+Proverb: !zcsqzntsxg(scituolzvxc.  
+Country: pvo 
+Quotient = 0.125
+Proverb: #  
+Country: fpnzva 
+Quotient = 1.0
+Proverb: beoopscrnntjdqvvgswyaiz!fgltv*mffr%dz$  
+Country: ss 
+Quotient = 0.10526315789473684
+Proverb: utvr dywjlwzffdokyh  
+Country: ftskqioa 
+Quotient = 0.0
+Proverb: huahsmxoolkmlzvwzjqbhuko,mvqwhefvgevyjuzitfuxztb  
+Country: qxpiz 
+Quotient = 0.020833333333333332
+Riddle: g!dw)yofktgfyqql  
+Answer: uehsato 
+Quotient = 0.125
+Aphorism: iilkopk'a+dfgf  
+Author: ekrn 
+Quotient = 0.14285714285714285
+Riddle: nqfgprhuoomfdh(cefjia"hajjk$ocf  
+Answer: ifqrl 
+Quotient = 0.0967741935483871
+Riddle: qoask*gksbkocyuyqtrgtgvvqpphwigz'zlio  
+Answer: xxkl 
+Quotient = 0.05405405405405406
+Riddle: du/!ia)  
+Answer: iwoh 
+Quotient = 0.42857142857142855
+Riddle: pbqj$drxxvuzityccktbebsnekovm  
+Answer: kpcgohbi 
+Quotient = 0.034482758620689655
+Proverb: owqgwdahhcopwetadpf u  
+Country: dopozfsl 
+Quotient = 0.0
+Aphorism: !dmuwe!  
+Author: mormejie 
+Quotient = 0.2857142857142857
+Aphorism: r#  
+Author: fabjbrxs 
+Quotient = 0.5
+Aphorism: vlvpieziebyhpkatydgenjyno%sajmoksp  
+Author: xkd 
+Quotient = 0.029411764705882353
+Riddle: cksymvzcfet*ogdcmovgest%z)ko  
+Answer: ijg 
+Quotient = 0.10714285714285714
+Proverb: owoejifyndlhwke%fvxnnu(m)#dfdxqcxnog  
+Country: znnk 
+Quotient = 0.1111111111111111
+Proverb: nwunkxjjjvtflkzyoymz /rhngagwxuu  
+Country: lsa 
+Quotient = 0.03125
+Proverb: xxgxogzbk#rizswowqauomhhgvdyauq)bguqc*  
+Country: b 
+Quotient = 0.07894736842105263
+Aphorism: aewzitxgzbewdufulssdr%fpisdfieunoxrspgdxmpgkhxh   
+Author: hko 
+Quotient = 0.020833333333333332
+Proverb: puybcfvuzltg"royaykz  
+Country: nobe 
+Quotient = 0.05
+Riddle: pphv-ljkd  
+Answer: afh 
+Quotient = 0.1111111111111111
+Proverb: gycqsmuummyjeejbsyzoegpbu*uqqgnmelslbwgneux%  
+Country: sny 
+Quotient = 0.045454545454545456
+Aphorism: deiwyy&zedxmco  
+Author: izq 
+Quotient = 0.07142857142857142
+Riddle: ard!rxs  
+Answer: jnntn 
+Quotient = 0.14285714285714285
+Riddle: fayd,wl.ofq  
+Answer: wth 
+Quotient = 0.18181818181818182
+Riddle: mqw(yricyqx+puesqfingvxsydxulolqirodt*-  
+Answer: end 
+Quotient = 0.10256410256410256
+Proverb: j-tmquayf#it.  
+Country: ur 
+Quotient = 0.23076923076923078
+Proverb: psyvfrqxhfliavrfwiak%udutjwobm  
+Country: xtvskbf 
+Quotient = 0.03333333333333333
+Aphorism: yfzwnzqgx&f  
+Author: nrilo 
+Quotient = 0.09090909090909091
+Riddle: jwhjqproshidvxuulcvaxmkqu.bmuzvbgk  
+Answer: hnwcrto 
+Quotient = 0.029411764705882353
+Aphorism: cyklyookspejahiscx)rlgtslevzfiqc  
+Author: o 
+Quotient = 0.03125
+Riddle: mjvn$mydpssevauzllssdrdquk yyysjhyytkdvzcggfno"  
+Answer: t 
+Quotient = 0.0425531914893617
+Aphorism: ztnduxu"bwbaziqyetcmmp  
+Author: wit 
+Quotient = 0.045454545454545456
+Aphorism: rhq.mwf tos   
+Author: v 
+Quotient = 0.08333333333333333
+Proverb: tipepjrhsmbtoi'qmgplh-+  
+Country: hhorbd 
+Quotient = 0.13043478260869565
+Proverb: e.s.dtx)/  
+Country: foibbpuh 
+Quotient = 0.4444444444444444
+Riddle: jrfta ptbgb%  
+Answer: txex 
+Quotient = 0.08333333333333333
+Aphorism: ph&!svjoaiz%,yccmgvp  
+Author: bpzwmlpv 
+Quotient = 0.2
+Aphorism: bpdxjzw.rkrvmwbonfkaknqlymaoc  
+Author: syvju 
+Quotient = 0.034482758620689655
+Proverb: thpxxllxlhz#ctcfhwza  
+Country: grqffkn 
+Quotient = 0.05
+Riddle: rt*ia$   
+Answer: xbjtupm 
+Quotient = 0.2857142857142857
+Riddle: xlcfvib#wqe ldrsv  
+Answer: jwhp 
+Quotient = 0.058823529411764705
+Proverb: ipvvzqtrbzoqbcfngdzoxqmilgpgwxvzyosw)ehrggim**  
+Country: jmlib 
+Quotient = 0.06521739130434782
+Aphorism: hvpx-+vgpwhe"ybzcuvjslu ykmyideir  
+Author: h 
+Quotient = 0.09090909090909091
+Proverb: kt.ttqv)"  
+Country: uockodmt 
+Quotient = 0.3333333333333333
+Proverb: mhjwxkoeoyxppxcroq%jwhasdkhrrlwdkzwmnqtosjwszmlc(  
+Country: svv 
+Quotient = 0.04081632653061224
+Aphorism: erc/ftoxisckxwaukkeiei&%szyjcvsdfojatmihouy  
+Author: yj 
+Quotient = 0.06976744186046512
+Riddle: filczbzxeboqzsqdyunjzsyyvkdzimhhie hp  
+Answer: pxy 
+Quotient = 0.0
+Proverb: pkmy-&eut%fu%  
+Country: n 
+Quotient = 0.3076923076923077
+Riddle: /*wfdzkkbulzwvo)xcexshklnp  
+Answer: o 
+Quotient = 0.11538461538461539
+Aphorism: glifcouqi%hcpw  
+Author: s 
+Quotient = 0.07142857142857142
+Proverb: doienhylv$evevrb(trd&sgev  
+Country: uj 
+Quotient = 0.12
+Aphorism: k&yvo#n!k  
+Author: khsq 
+Quotient = 0.3333333333333333
+Aphorism: )u+aqj+  
+Author: izfuj 
+Quotient = 0.42857142857142855
+Riddle: gzzmmijaqp)bwnn  
+Answer: g 
+Quotient = 0.06666666666666667
+Riddle: hdakcrt&eibyafhxbhze  
+Answer: zsopg 
+Quotient = 0.05
+Proverb: fwhqqqtxcivgngypjabekppcpiosg!mqaxz  
+Country: ftyfmjd 
+Quotient = 0.02857142857142857
+Proverb: wecjuuldhdiochezxjessulwrregtheyff%clqpg-i  
+Country: e 
+Quotient = 0.047619047619047616
+Aphorism: kdpydjqntxovqtpbwclzpxyycbqigk&p  
+Author: pcc 
+Quotient = 0.03125
+Proverb: pawnwmwi#zmer"rw  
+Country: olz 
+Quotient = 0.125
+Aphorism: tejvogtfeke.rxi rgemmbl  
+Author: fkswrtas 
+Quotient = 0.043478260869565216
+Riddle: xsqkrreo%hsoyccogjoojspgggaxsiixtpibvbll+q'  
+Answer: bpczrx 
+Quotient = 0.06976744186046512
+Riddle: aqht.cpyxbonffzzfku  
+Answer: jzyk 
+Quotient = 0.05263157894736842
+Aphorism: ghc,bfvrwj#q&pliuev%  
+Author: d 
+Quotient = 0.2
+Riddle: dyysjvsjfgekenroxzvqnfqcuchebzdjxkpxnpeykcqmwk/  
+Answer: z 
+Quotient = 0.02127659574468085
+Aphorism: mdasf,tvhbaa"sbfv.  
+Author: owfwbus 
+Quotient = 0.16666666666666666
+Riddle: 'qn,qrictimyd'qqcpy  
+Answer: ef 
+Quotient = 0.15789473684210525
+Aphorism: incnujfl-bk(u%  
+Author: cvy 
+Quotient = 0.21428571428571427
+Riddle: c)q+)  
+Answer: p 
+Quotient = 0.6
+Proverb: ky,ryr+  
+Country: hkhpsms 
+Quotient = 0.2857142857142857
+Proverb: op'suh(#m(  
+Country: kbyrop 
+Quotient = 0.4
+Aphorism: mbr%t+cjfe(asmoiqvj  
+Author: fp 
+Quotient = 0.15789473684210525
+Proverb: r"ju  
+Country: mrbakh 
+Quotient = 0.25
+Aphorism: ybcnc&g#fhb  
+Author: woytiiq 
+Quotient = 0.18181818181818182
+Aphorism: cwlfy!xdhsn)  
+Author: kilwae 
+Quotient = 0.16666666666666666
+Riddle: piwuwewexpebfasqgzhbwgftdvjz f!iifoikejrpvtubdam  
+Answer: dcgtv 
+Quotient = 0.020833333333333332
+Riddle: bgevsamxsqfk!jjdd(chvt)ssbmdbmmjq,t  
+Answer: wmegri 
+Quotient = 0.11428571428571428
+Riddle: .fxab$etvraowfpmhuyamedsaveemjfug-  
+Answer: wyivbhut 
+Quotient = 0.08823529411764706
+Proverb: %g.s(-  
+Country: e 
+Quotient = 0.6666666666666666
+Aphorism: cqrkvccdhkfywpairxkhqmmdufzoxpwcdyp+hd mnt  
+Author: mdiedldr 
+Quotient = 0.023809523809523808
+Aphorism: x(  
+Author: gdcf 
+Quotient = 0.5
+Riddle: edwhspajxbb+lookiduuaohvflphsf%jbmc  
+Answer: aen 
+Quotient = 0.05714285714285714
+Aphorism: kbw!as c/vmvczalejrmjthbkj"  
+Author: ecnq 
+Quotient = 0.1111111111111111
+Riddle: gh%mp.'gn  
+Answer: ktjnnzoz 
+Quotient = 0.3333333333333333
+Aphorism: bhqxrwioxhxqdrjasl.wclxqhaguenx"  
+Author: mrc 
+Quotient = 0.0625
+Proverb: inqwmmjfrwzt$kveylgulu)mrflrizs.q  
+Country: dvpwxv 
+Quotient = 0.09090909090909091
+Riddle: bfpazaqfkidtvihcumjznmwotfupyaz%  
+Answer: x 
+Quotient = 0.03125
+Riddle: bin#iqnphpqskxvgafjab &jprsgixnskuthoeio  
+Answer: cdb 
+Quotient = 0.05
+Aphorism: fonamsjeealwvmsc+pbjgilicjchxdvfukdyjcs   
+Author: hkkjpza 
+Quotient = 0.025
+Proverb: -  
+Country: n 
+Quotient = 1.0
+Aphorism: n&lziviy"d.aba  
+Author: rrnpol 
+Quotient = 0.21428571428571427
+Proverb: zrsm!iaiuvdhbqzcpjitfielgvuidgt)o#r  
+Country: bdmk 
+Quotient = 0.08571428571428572
+Proverb: #gbnt/s$gnp%kwkgthnaubvqodlt  
+Country: ljendas 
+Quotient = 0.14285714285714285
+Proverb: i)knzuziifkvpcydiyekbilsnxc$pwrmjnhfcw  
+Country: idjsvx 
+Quotient = 0.05263157894736842
+Proverb: zebtrshv)pjgzfvutpky%dufjmrwquwockfbokcnawjus#  
+Country: tfhfxh 
+Quotient = 0.06521739130434782
+Riddle: svlgjuxflbeconocqgiskr,amwzzuf(acr/zmx(kez  
+Answer: ndgryqzk 
+Quotient = 0.09523809523809523
+Proverb: llv%veyrgd"&dychwkeymvv/vvqbwfdypkmbc  
+Country: mqjary 
+Quotient = 0.10810810810810811
+Riddle: ,n*vz*,  
+Answer: s 
+Quotient = 0.5714285714285714
+Aphorism: dpvdomqykn/kacpg!gknsreuvxvx  
+Author: usvzyoa 
+Quotient = 0.07142857142857142
+Riddle: addj r'sducpzxdmrihvraw(sjvmldfolhkfpdu  
+Answer: mvzf 
+Quotient = 0.05128205128205128
+Aphorism: biaqdincyi,qjlvjrlbgkfznphvam  
+Author: koftks 
+Quotient = 0.034482758620689655
+Proverb: lvsnncbugoyhvqes"owx-vizgupmcpt  
+Country: nmpdus 
+Quotient = 0.06451612903225806
+Riddle: c(  
+Answer: svak 
+Quotient = 0.5
+Riddle: dgfw,h.uagnbrsyiox(udbxaopdq  
+Answer: vp 
+Quotient = 0.10714285714285714
+Riddle: sqfpsypubf"  
+Answer: qigsmrnb 
+Quotient = 0.09090909090909091
+Proverb: m---  
+Country: mkrgia 
+Quotient = 0.75
+Riddle: auenlysrthtlxjtrxtigyymsibq!btnmeptzzjmtvnukflwo  
+Answer: exd 
+Quotient = 0.020833333333333332
+Aphorism: hsrxjsypkugjqnsuplcseblpsogmdivvfgtoxe)igv  
+Author: fxtmms 
+Quotient = 0.023809523809523808
+Proverb: ncyoxwkhbkcguvnvlk'pnefinrjvxcctidqj  
+Country: cqf 
+Quotient = 0.027777777777777776
+Aphorism: (udecep"zxafnxqzjvltfhgf.  
+Author: gr 
+Quotient = 0.12
+Riddle: jcxjf,t/hqleaby  
+Answer: gtdam 
+Quotient = 0.13333333333333333
+Proverb: ,rim#cvxqfmgnmnop&cf%  
+Country: mkspbq 
+Quotient = 0.19047619047619047
+Riddle: pahfolqdxm(ev(ewdmkpxi+  
+Answer: det 
+Quotient = 0.13043478260869565
+Proverb: w()$sw  
+Country: ergzm 
+Quotient = 0.5
+Riddle: xdfnuy wm-qojbu-ozlrbuudfuhjlha  
+Answer: dximldb 
+Quotient = 0.06451612903225806
+Aphorism: lm+jhelxwlforrfq kdtdztwoafzpjlmh  
+Author: rfbv 
+Quotient = 0.030303030303030304
+Proverb: vljwjxxdzhczsldm$r&'#  
+Country: dgrf 
+Quotient = 0.19047619047619047
+Aphorism: -nxzxovjywqmdfrhfwld qapfgioaggqkygs bmbryzn  
+Author: a 
+Quotient = 0.022727272727272728
+Proverb: yd)mifefhfe  
+Country: eocvb 
+Quotient = 0.09090909090909091
+Aphorism: ywwlipeh/aogembcrmsqzetphmdpk snw&qhura"eugsq  
+Author: cwrdxv 
+Quotient = 0.06666666666666667
+Riddle: cjpc"gp-tmyywfftgtxrsuhuxgbd)vitgtfqrejfzrwlw  
+Answer: ldxw 
+Quotient = 0.06666666666666667
+Riddle: j.h)ij),  
+Answer: wcikl 
+Quotient = 0.5
+Proverb: qagkxsapqtqv#fezhvktbuhk  
+Country: pl 
+Quotient = 0.041666666666666664
+Proverb: devasw.iiulihsfmclefrupbwkbfzqsruagelygqll  
+Country: hualli 
+Quotient = 0.023809523809523808
+Riddle: ru pkqfq-yk-h)hcdfi  
+Answer: sqjgjtko 
+Quotient = 0.15789473684210525
+Aphorism: wszwyyfz"wbaql)wfdrcbutjcq  
+Author: ysf 
+Quotient = 0.07692307692307693
+Aphorism: #ubjsrrmgubxnloivna.lccv%iigwwjeiongqc*zmfdpk  
+Author: hd 
+Quotient = 0.08888888888888889
+Aphorism: olitnosag/kpfrmyekd&sdauuddqo"#lpmfqthymodn  
+Author: aqm 
+Quotient = 0.09302325581395349
+Aphorism: jjucsjlhgxxsgmdcrmdmvcre*wniasj#o  
+Author: byh 
+Quotient = 0.06060606060606061
+Proverb: $"h  
+Country: fapmhqzt 
+Quotient = 0.6666666666666666
+Riddle: acwbuylstk%husk  
+Answer: h 
+Quotient = 0.06666666666666667
+Aphorism: trcbeikzgqg$pwkx/yn  
+Author: xwi 
+Quotient = 0.10526315789473684
+Proverb: w.dmwqeuvidlcjusfzggjkvzqo dtvmyrn  
+Country: c 
+Quotient = 0.029411764705882353
+Riddle: tvq+(  
+Answer: ym 
+Quotient = 0.4
+Proverb: wyzaqitusfgl+btqbnvretzgte!odmmmrcbxtsjlttm  
+Country: awei 
+Quotient = 0.046511627906976744
+Aphorism: vkzukkpzicogikzsylhmjtrxebmkgifi   
+Author: wc 
+Quotient = 0.0
+Proverb: kbjmkyuoxfoxi(xe  
+Country: vzwtyzk 
+Quotient = 0.0625
+Aphorism: v"bjdawccy$vbtfjgyccmp(yzywrbmrilg!vwnjdw  
+Author: lcosm 
+Quotient = 0.0975609756097561
+Riddle: zvtwwbsudritprme"hqbakpsvpnptqyxiomfacvyrf  
+Answer: g 
+Quotient = 0.023809523809523808
+Aphorism: r%*d  
+Author: xv 
+Quotient = 0.5
+Proverb: y%n rek  
+Country: ts 
+Quotient = 0.14285714285714285
+Proverb: as,etq*xtolckp$glkis  
+Country: encylckn 
+Quotient = 0.15
+Proverb: snrgk&qbytkvvvosajcnndtfkhrvegvwwxgqnpwvsyaxz.  
+Country: a 
+Quotient = 0.043478260869565216
+Proverb: $vkxwbmypzeihlhmdy*ve  
+Country: akkssq 
+Quotient = 0.09523809523809523
+Riddle: szrw/bjurplscmbsgckkbolrnrecmeywxvfy  
+Answer: kiud 
+Quotient = 0.027777777777777776
+Riddle: kei,zkedpyqiujjwu(rghssqi,ujzg  
+Answer: w 
+Quotient = 0.1
+Proverb: %  
+Country: owdgj 
+Quotient = 1.0
+Riddle: 'zwizaikyjm*'.  
+Answer: vexeyb 
+Quotient = 0.2857142857142857
+Aphorism: mdhrbcbhcjeecjavlzosnnqpaxsfpswr,kb.  
+Author: lgqzthu 
+Quotient = 0.05555555555555555
+Riddle: fymcibqu"ej+$jcfjkl  
+Answer: fsfwb 
+Quotient = 0.15789473684210525
+Proverb: ulvm&ssghkdwwddq&iwkv*zxo  
+Country: krbo 
+Quotient = 0.12
+Proverb: shqmsglrazwyyoegymb!tfd"dovpyqqmwgrhnrwmourldb  
+Country: lkmfb 
+Quotient = 0.043478260869565216
+Aphorism: e'fqdzqlshqnrqypvdqufg  
+Author: dqh 
+Quotient = 0.045454545454545456
+Proverb: tjxrmtoi&qsmyloumtgj)  
+Country: ypk 
+Quotient = 0.09523809523809523
+Proverb: '  
+Country: i 
+Quotient = 1.0
+Riddle: givnspfh#mjf/snflcwink  
+Answer: ywis 
+Quotient = 0.09090909090909091
+Aphorism: ispdyrpuvpuqfz&asv$qnbous  
+Author: zctnkbdr 
+Quotient = 0.08
+Aphorism: jshtqdt#hyvvp!zstl/we w  
+Author: cddbdcjw 
+Quotient = 0.13043478260869565
+Proverb: rilghointhykc$#  
+Country: amuy 
+Quotient = 0.13333333333333333
+Aphorism: wsrpbtjpckqpgs$rityqfll  
+Author: bnqptki 
+Quotient = 0.043478260869565216
+Aphorism: .sgekgxvhfv  
+Author: ztcduc 
+Quotient = 0.09090909090909091
+Aphorism: udslxtqymsdq ziqwwsdnwdmdrjrdvssqnff!lqqel/  
+Author: qzomefrt 
+Quotient = 0.046511627906976744
+Proverb: mqilngtzyseoe-hlw!guvn#zolgbyzithb  
+Country: dcsq 
+Quotient = 0.08823529411764706
+Riddle: qnsnsnseyzzrkjpwmaghipt.q  
+Answer: jul 
+Quotient = 0.04
+Aphorism: jjvrcqjoolirpxwkoihkgyvnxxokc+bodt+tnrn*aa  
+Author: uvojcy 
+Quotient = 0.07142857142857142
+Aphorism: pnvoxwatasmzgowsmyrjws!fzsfclw'z*pgxqu  
+Author: sa 
+Quotient = 0.07894736842105263
+Riddle: tjtak/qppg,(xoftqqqtwwirlnzhcdbnd)  
+Answer: xzqzp 
+Quotient = 0.11764705882352941
+Riddle: -  
+Answer: mvhr 
+Quotient = 1.0
+Riddle: akuppsddantslkuqw&odcppelbxylzpth  
+Answer: gbkiimbi 
+Quotient = 0.030303030303030304
+Riddle: yzmk*ox$b  
+Answer: s 
+Quotient = 0.2222222222222222
+Aphorism: -tbw%(pdzk  
+Author: cr 
+Quotient = 0.3
+Proverb: w!tohs%+  
+Country: aecka 
+Quotient = 0.375
+Riddle: dwiirsps(lx&zhglix"yaekyjpzwdzhdowjwryhug  
+Answer: ki 
+Quotient = 0.07317073170731707
+Riddle: miyisdyivzxdpnoekimsfzjwv"ngsxzikwnnanqrzjcnj  
+Answer: drl 
+Quotient = 0.022222222222222223
+Aphorism: qealfwchdjvsempam(  
+Author: gihtpdmg 
+Quotient = 0.05555555555555555
+Aphorism: ah.gqelpr&tkdjsoacwwnxsqzbj  
+Author: nb 
+Quotient = 0.07407407407407407
+Riddle: iorqsoai(/h  
+Answer: lmgxeob 
+Quotient = 0.18181818181818182
+Aphorism: fligfvz/tqnoppnwosrjmgkopwrlylta/tiqmrecvrqomz  
+Author: ybmvtpj 
+Quotient = 0.043478260869565216
+Proverb: vmq cmnlwpibzemm%ltxzlevuheao+axwspeshdsbor  
+Country: mhp 
+Quotient = 0.046511627906976744
+Riddle: owblmxlcwzwugkvt$wxnczuib,ycri  
+Answer: ljqprgwe 
+Quotient = 0.06666666666666667
+Proverb: xtqyljj/gf  
+Country: zp 
+Quotient = 0.1
+Proverb: txbsbbdzhvl*xvom&kafzagrycplfokci%iqhys  
+Country: wcq 
+Quotient = 0.07692307692307693
+Riddle: jyrha vow)lty(hqzrsuprxlsk  
+Answer: mnl 
+Quotient = 0.07692307692307693
+Proverb: qrewfblvvjxxu'hzkfataieislqyqqcikzkmuj  
+Country: whg 
+Quotient = 0.02631578947368421
+Aphorism: d p%'sl!  
+Author: shxavgp 
+Quotient = 0.375
+Aphorism: )qcqspnwfykkkgid- rhbt  
+Author: gxiu 
+Quotient = 0.09090909090909091
+Riddle: )k*  
+Answer: vgovxrz 
+Quotient = 0.6666666666666666
+Aphorism: #  
+Author: ktjaxaz 
+Quotient = 1.0
+Proverb: syqd&kh#glvl+vvdvuyqp%  
+Country: tkpc 
+Quotient = 0.18181818181818182
+Aphorism: qkmrmns&lhzo+tpiuqw  
+Author: fmq 
+Quotient = 0.10526315789473684
+Riddle: n+onhqokbozzfnuqipcwllbt(xcp  
+Answer: ormgiu 
+Quotient = 0.07142857142857142
+Riddle: t&cvr "t-x  
+Answer: lhdf 
+Quotient = 0.3
+Proverb: "fxujyh&xxb  
+Country: if 
+Quotient = 0.18181818181818182
+Aphorism: tadhdvlclxaiubj!cbabjwzaoivtnv  
+Author: wyr 
+Quotient = 0.03333333333333333
+Proverb: lgccmhyyzuucxqxeyrncm/  
+Country: yakm 
+Quotient = 0.045454545454545456
+Proverb: esxidshaxsc"  
+Country: dzyx 
+Quotient = 0.08333333333333333
+Aphorism: rqdz)t(s%s  
+Author: trk 
+Quotient = 0.3
+Riddle: hrd%ancykanbprunon!d  
+Answer: zavgjbuo 
+Quotient = 0.1
+Proverb: i!xahg   
+Country: sbt 
+Quotient = 0.14285714285714285
+Proverb: nxavbtatkqalzqtlbhhqyvqksqslt+  
+Country: rewmsjq 
+Quotient = 0.03333333333333333
+Proverb: cuykqekrznwffpbzmkea'crconxmecemmixkzmfxewtwacd  
+Country: vwk 
+Quotient = 0.02127659574468085
+Riddle: j-o'ieifllwurnrsv  
+Answer: eppddjwq 
+Quotient = 0.11764705882352941
+Aphorism: poqmwtaasnwamirpisvcibsgi,h&wy#  
+Author: xik 
+Quotient = 0.0967741935483871
+Aphorism: 'aj$ikft!mfrjnqhkcvtmqr  
+Author: a 
+Quotient = 0.13043478260869565
+Proverb: dcznjvghema"vxfgsosakhwuztrpyargoloq%  
+Country: hy 
+Quotient = 0.05405405405405406
+Aphorism: wyrqnbrwpfvucfghk#qaiqqwetx  
+Author: xfnacpj 
+Quotient = 0.037037037037037035
+Proverb: ,c&frmgbv&  
+Country: mbtk 
+Quotient = 0.3
+Aphorism: %  
+Author: ju 
+Quotient = 1.0
+Aphorism: vlgbmnjiqylhnoqudvlfxvee f-xeqezjekbnswlz  
+Author: ot 
+Quotient = 0.024390243902439025
+Riddle: qz d'/wvl  
+Answer: sc 
+Quotient = 0.2222222222222222
+Proverb: dxabxyhlnarpvg$r+grjvxolwbaxmbq..  
+Country: wgwfh 
+Quotient = 0.12121212121212122
+Aphorism: fok/ycfgjh&hfmnchzfwbnjdxzojplvfhmhgclly'ooy  
+Author: apmnlsx 
+Quotient = 0.06818181818181818
+Riddle: "  
+Answer: bcjqgd 
+Quotient = 1.0
+Riddle: qgk((pjwyguqqkyx/+ivq  
+Answer: vovnbbm 
+Quotient = 0.19047619047619047
+Aphorism: gcoxti"!wygnktnychilhz  
+Author: ta 
+Quotient = 0.09090909090909091
+Riddle: zlvoliglxovxkbtseygcnbgbskjiibedopmhfcgwiaqxf-l!  
+Answer: sanrxk 
+Quotient = 0.041666666666666664
+Aphorism: wmhuqernhf)dbqivvgbb%nzucfo  
+Author: tyuchama 
+Quotient = 0.07407407407407407
+Riddle: !  
+Answer: nseumaqk 
+Quotient = 1.0
+Riddle: qw-obij(  
+Answer: akf 
+Quotient = 0.25
+Riddle: /#s+mi  
+Answer: m 
+Quotient = 0.5
+Proverb: z)xsbqdmxuksd  
+Country: ms 
+Quotient = 0.07692307692307693
+Riddle: pwjlaaqhvygkrbw/dv-evahjmlflznuzh,c  
+Answer: lhgzfm 
+Quotient = 0.08571428571428572
+Riddle: e#   
+Answer: po 
+Quotient = 0.3333333333333333
+Aphorism: q/mo+.  
+Author: mhfiheqw 
+Quotient = 0.5
+Aphorism: jbc.  
+Author: fd 
+Quotient = 0.25
+Aphorism: *ly  
+Author: wlug 
+Quotient = 0.3333333333333333
+Aphorism: swyocfy   
+Author: cjbhx 
+Quotient = 0.0
+Riddle: #  
+Answer: s 
+Quotient = 1.0
+Riddle:  cxq-phek"yjktzpgy)takovxxxdxrej  
+Answer: ou 
+Quotient = 0.09375
+Proverb: ogukmj"dhjgrs)yp  
+Country: bm 
+Quotient = 0.125
+Riddle: b!l'(  
+Answer: ggk 
+Quotient = 0.6
+Aphorism: w'yuc&  
+Author: rolme 
+Quotient = 0.3333333333333333
+Riddle: )slwtkfdovbdcbkqxgnyd"wm &  
+Answer: hp 
+Quotient = 0.11538461538461539
+Aphorism: ycszdexsncxdmzvvuftakqqrsaaz)  
+Author: zfvhj 
+Quotient = 0.034482758620689655
+Aphorism: ndywox*qpbpudpwtdlqedgzqmq(kpiyugggdmsdoxkyb  
+Author: s 
+Quotient = 0.045454545454545456
+Aphorism: cteticydpl!pvsxwzrsjogsyhxaembxoqcpmh  
+Author: shn 
+Quotient = 0.02702702702702703
+Riddle: %lnvh  
+Answer: sfdznfkl 
+Quotient = 0.2
+Riddle: yrbh%ijrzjccwd'x/mao  
+Answer: xxcscn 
+Quotient = 0.15
+Riddle: dxnzlj,mmdwcyzfwiymnhayrx$q  
+Answer: pgugbxgr 
+Quotient = 0.07407407407407407
+Proverb: ourh&  
+Country: jdyuc 
+Quotient = 0.2
+Riddle: nc"mvf$vmbyw  
+Answer: y 
+Quotient = 0.16666666666666666
+Riddle: feevjzfjkqidezl$oyzihdpr%gd.jpfi%  
+Answer: nl 
+Quotient = 0.12121212121212122
+Riddle: bgqmu,epliz"zd  
+Answer: ppnnacs 
+Quotient = 0.14285714285714285
+Riddle: l'bb,hunmxoqwhbuflsipigbppe  
+Answer: iwgixwp 
+Quotient = 0.07407407407407407
+Aphorism: jvnks*d.gxxcl*bblanj,rvunx  
+Author: lfk 
+Quotient = 0.15384615384615385
+Proverb: butlmfcy-'qmrtudyivgozembhv  
+Country: xcfssby 
+Quotient = 0.07407407407407407
+Aphorism: rz*btvt-qz(  
+Author: qtsa 
+Quotient = 0.2727272727272727
+Proverb: gfloxius,yqkcpdsfxfjomfgunuvyy  
+Country: siciz 
+Quotient = 0.03333333333333333
+Proverb: fxzaynkixknkjjtif!ikvhwdtnypfdtdtabslsyyhjlp  
+Country: cpoczh 
+Quotient = 0.022727272727272728
+Aphorism: xsv&.  
+Author: oisx 
+Quotient = 0.4
+Aphorism: rtpjtz#ob'dsisbsrbwdzrlcgrsscvod+k+dvu  
+Author: un 
+Quotient = 0.10526315789473684
+Aphorism: jgjfgdqgbl(  
+Author: indxey 
+Quotient = 0.09090909090909091
+Riddle: .omuqmmekxwoucaynamkevtxodcseinnnkbwxylgzwu,  
+Answer: rzhuklf 
+Quotient = 0.045454545454545456
+Proverb: eznr+%+  
+Country: e 
+Quotient = 0.42857142857142855
+Aphorism: g&)qpbgujra/hhci  
+Author: mfvcqc 
+Quotient = 0.1875
+Riddle: zqqdjhriolhw!kyddcsajg&y!  
+Answer: z 
+Quotient = 0.12
+Aphorism: xy+kquiugi  
+Author: w 
+Quotient = 0.1
+Proverb: irp%  
+Country: ibwydh 
+Quotient = 0.25
+Proverb: zddxlxmdwahwz+nqiseyjxsdxsumnygpyuwqsmkcw  
+Country: xvvk 
+Quotient = 0.024390243902439025
+Riddle: lzreatprcqm)npyduen.ljuzexvdxz*yekvdqwqt'dv  
+Answer: jreo 
+Quotient = 0.09302325581395349
+Proverb: cib/tqpsgqymzrquputsdbhov,hlcrlslv  
+Country: sehq 
+Quotient = 0.058823529411764705
+Aphorism: $c  
+Author: wjnef 
+Quotient = 0.5
+Aphorism: jgvqb#wjcssvtc  
+Author: cge 
+Quotient = 0.07142857142857142
+Riddle: sngniwbttibfolmrba&lgwwcw+bxbyuwr  
+Answer: v 
+Quotient = 0.06060606060606061
+Riddle: &thuun&  
+Answer: ntzhdwmk 
+Quotient = 0.2857142857142857
+Riddle: wiq/"ibjsf+cdybxvpsaf  
+Answer: aux 
+Quotient = 0.14285714285714285
+Aphorism: cl-ruhucq.vy  
+Author: vgmkzd 
+Quotient = 0.16666666666666666
+Riddle: l!jbwordudyzn,ltlwjpxad-eotvpteugrsbbni+  
+Answer: n 
+Quotient = 0.1
+Proverb: jysvjcxuvobzcdtcdozaxswcni!s%jc-sn&q  
+Country: srharyi 
+Quotient = 0.1111111111111111
+Proverb: qikygocnjfsbdeimyinebhb-eogrwcrynvaxsfmc  
+Country: jb 
+Quotient = 0.025
+Aphorism: j/tjyodydossjs%hnmjqwn  
+Author: eimuqlx 
+Quotient = 0.09090909090909091
+Proverb: mhslntszchoufjlfkyjukblrf(geodruebskh  
+Country: tckdlajm 
+Quotient = 0.02702702702702703
+Aphorism: wyxkwqdeuryrsn(qvaxeflc  
+Author: pzrhyne 
+Quotient = 0.043478260869565216
+Proverb: mr(ysrxvsdpupjtvisxzvstanaz  
+Country: zd 
+Quotient = 0.037037037037037035
+Proverb: sa*za!noo  
+Country: oahnnecn 
+Quotient = 0.2222222222222222
+Proverb: wykuoktnidd,rvxi"vmxjwuypgugtcu/'h  
+Country: cbs 
+Quotient = 0.11764705882352941
+Riddle: qgxwiv,ogtzguvzjv$yncqjv  
+Answer: gntys 
+Quotient = 0.08333333333333333
+Riddle: xvdujqmlvgitvxtbbnwjug*dcizdigjkmjigipwicax  
+Answer: dyh 
+Quotient = 0.023255813953488372
+Proverb: the'ykxgwlqbkqzdcf  
+Country: acse 
+Quotient = 0.05555555555555555
+Riddle: dpwiegak+(  
+Answer: jbdt 
+Quotient = 0.2
+Aphorism: yoy+yn  
+Author: juqod 
+Quotient = 0.16666666666666666
+Proverb: jgpnltpmvrhdji'tnyvvo(gksrx  
+Country: jgsaqisv 
+Quotient = 0.07407407407407407
+Proverb: *.  
+Country: zmuykh 
+Quotient = 1.0
+Aphorism: m(pl*qt+  
+Author: kkqjs 
+Quotient = 0.375
+Proverb: wgmekfwluwisdmk,xbispyewqfkmagcpxhx$$quaze  
+Country: uynu 
+Quotient = 0.07142857142857142
+Riddle: '"  
+Answer: q 
+Quotient = 1.0
+Proverb: lckimdayjfsfmwe,lywvynabmgrayxxnbshnyuimw  
+Country: bor 
+Quotient = 0.024390243902439025
+Proverb: !g-  
+Country: vljelab 
+Quotient = 0.6666666666666666
+Aphorism: vamy)eycsqatswktgiqjtwlqfoqeaktbgqffoquef)dei  
+Author: lfrx 
+Quotient = 0.044444444444444446
+Proverb: vtzaiftgal/qwb)lkvhsqh-jphnbmos!cvx  
+Country: gl 
+Quotient = 0.11428571428571428
+Proverb: /sm)salivwjxamkggukfnwsngqihgaxgk'gq)niw  
+Country: mvjvjhif 
+Quotient = 0.1
+Riddle: *  
+Answer: nqszhgt 
+Quotient = 1.0
+Riddle: (nexhqhkqleuxjfmmjfotbjpimukekdcmcno-dsyhgjyk(l  
+Answer: ttj 
+Quotient = 0.06382978723404255
+Riddle: seoecmwhkdqmmaeegbhbeprxgsokwxydloi/bhdxf.  
+Answer: jvvsnms 
+Quotient = 0.047619047619047616
+Riddle: n .  
+Answer: svaf 
+Quotient = 0.3333333333333333
+Aphorism: qp   
+Author: oxi 
+Quotient = 0.0
+Aphorism: zky maennanhittoleibvxboplduitbipe  
+Author: v 
+Quotient = 0.0
+Aphorism:  zgqqkuqfkxutgbykndtppogofzdkicwswjwakti  
+Author: ewo 
+Quotient = 0.0
+Proverb: fi!pwxuzgfw(hmuxuirxhuz(d  
+Country: liekpt 
+Quotient = 0.12
+Aphorism: zuqtrcjekaovfxzkcuwfentgb-oubnmrfutdix  
+Author: fqhcymq 
+Quotient = 0.02631578947368421
+Proverb: wa,'rx/  
+Country: mrlqderk 
+Quotient = 0.42857142857142855
+Riddle: $civbpedulvu  
+Answer: nzorhl 
+Quotient = 0.08333333333333333
+Riddle: tdgqmdkynyogxrvrw)qtcohwuhgandtslnymzkvcjkwzfus  
+Answer: u 
+Quotient = 0.02127659574468085
+Aphorism: dppnnadj.,pdzzm$k-  
+Author: qbqh 
+Quotient = 0.2222222222222222
+Aphorism: $  
+Author: vzg 
+Quotient = 1.0
+Riddle: jgt#ydjhj$ajfskzehkvusify)ntaa%  
+Answer: eaoca 
+Quotient = 0.12903225806451613
+Proverb: .jdwjdlg!dspmo  
+Country: r 
+Quotient = 0.14285714285714285
+Proverb: xgcxgccgalmrgirsstqat fxsjudoesfabatbnhzz  
+Country: dpybj 
+Quotient = 0.0
+Riddle: edbfrb'etrjlgxyqy-mzdhvsbs  
+Answer: pvf 
+Quotient = 0.07692307692307693
+Aphorism: mfytidiwuz&pj,ec  
+Author: ah 
+Quotient = 0.125
+Riddle: xttyydbrlnbfrinm"  
+Answer: a 
+Quotient = 0.058823529411764705
+Proverb: qd/bubholy.m&qeiyhkbiriyekhmcjfuigjdzrflrxoxh  
+Country: qaakiuk 
+Quotient = 0.06666666666666667
+Riddle: zc+kyc lk,gdbwgyfqrzenbqyxn  
+Answer: rt 
+Quotient = 0.07407407407407407
+Riddle: .jeuzc  
+Answer: gzqiua 
+Quotient = 0.16666666666666666
+Aphorism: dvuyxcoypo*ynapx+bwkhg'koesaooh/wihbk  
+Author: ezoqm 
+Quotient = 0.10810810810810811
+Aphorism: pmxzu$  
+Author: b 
+Quotient = 0.16666666666666666
+Proverb: ffbosfyyyoq$(f,  
+Country: snlx 
+Quotient = 0.2
+Riddle: tvtxboobh!qdpey'h  
+Answer: ob 
+Quotient = 0.11764705882352941
+Aphorism: snjxokautlhlxyruogiyalcyuudi!btb  
+Author: smgefa 
+Quotient = 0.03125
+Riddle: gnehwsk&yfhitksl  
+Answer: z 
+Quotient = 0.0625
+Proverb: vqbstkqjuoohvjxuuxldivircskxkvn"kdpinwujh  
+Country: rknla 
+Quotient = 0.024390243902439025
+Aphorism: s.%zpayelpardmj-iqm!urevcqjtnxpkpdvgk  
+Author: l 
+Quotient = 0.10810810810810811
+Riddle: ate$otq*dbkcwlidxgklthicisyhvzs#kmjxirvmnjzwxw  
+Answer: mvihp 
+Quotient = 0.06521739130434782
+Riddle: peiof$ddiu  
+Answer: iyt 
+Quotient = 0.1
+Proverb: lmtakc*l+  
+Country: bu 
+Quotient = 0.2222222222222222
+Proverb: $!r  
+Country: ot 
+Quotient = 0.6666666666666666
+Aphorism: hfmsmxqt+gfjp ildgojqevzwj!ben!  
+Author: eng 
+Quotient = 0.0967741935483871
+Aphorism: jjyskkczndvlhwwznq*izlfb/amufgm  
+Author: ojzessgh 
+Quotient = 0.06451612903225806
+Proverb: ufjbqfciymmpu'dfaqrtkbopjc$nxxmtuylexewtd  
+Country: t 
+Quotient = 0.04878048780487805
+Riddle: aejwvtlmu ooluspctxznszft  
+Answer: eptzg 
+Quotient = 0.0
+Riddle: irciqrjttonxt#bglzkdegiwsrftgpvcxtfcdqgabk  
+Answer: faojyogo 
+Quotient = 0.023809523809523808
+Proverb: i.pnlicdaywsj"nvosgbksn  
+Country: n 
+Quotient = 0.08695652173913043
+Aphorism: wupzwwtqsgodjrnon),  
+Author: x 
+Quotient = 0.10526315789473684
+Proverb: lsnmkecmmsraxsarz(pgvhfaabeeqsywkn  
+Country: j 
+Quotient = 0.029411764705882353
+Riddle: tezsboyhzgmahli)jmvtpctfjtiv.prtfygshgr  
+Answer: uizokanq 
+Quotient = 0.05128205128205128
+Proverb: cdeimf#xtgtddzqyelmxjaphhjkphikntyvurahhvi  
+Country: enr 
+Quotient = 0.023809523809523808
+Aphorism: bvap-gzwvattmyjlc(occewdz ,d  
+Author: pqkr 
+Quotient = 0.10714285714285714
+Aphorism: cbiu%wddh,#xudserqqupm  
+Author: spz 
+Quotient = 0.13636363636363635
+Proverb: ssocmoawewwwb,cqivdustefzqj.nundpobzmlxlj$  
+Country: hfumjf 
+Quotient = 0.07142857142857142
+Riddle: ib"  
+Answer: ggvbe 
+Quotient = 0.3333333333333333
+Proverb: ucnktndyqmajishjkwsfyqmhaxmpdwvcuor(afxuhmqklqc  
+Country: uxsihfv 
+Quotient = 0.02127659574468085
+Proverb: qxtbzjiwqvl%hdicv)b  
+Country: dd 
+Quotient = 0.10526315789473684
+Proverb: jnk/rjwhrygskogiwtgsafxzfqg  
+Country: tllvzt 
+Quotient = 0.037037037037037035
+Riddle: ivnlbgg.bjjyxblkuduqmbjlcx.pszyds  
+Answer: irs 
+Quotient = 0.06060606060606061
+Proverb: mwbuhqnkrdmrwcjp-wcx$qxwnlwoiw*"  
+Country: zp 
+Quotient = 0.125
+Aphorism: soq.)  
+Author: fygyu 
+Quotient = 0.4
+Aphorism: rpji*qjeqatjdflodwjoegcrolsbpakrfcxihqe%plk  
+Author: zjssz 
+Quotient = 0.046511627906976744
+Proverb: ge*#  
+Country: wdcdm 
+Quotient = 0.5
+Riddle: hmtldwrw.gtmxtpdgwcgaewmshxlmqvayzjwpmyuukxf  
+Answer: cr 
+Quotient = 0.022727272727272728
+Proverb: p."  
+Country: tltirwzb 
+Quotient = 0.6666666666666666
+Riddle: a&cs&wznlbjxkqulytdrnq*aeddzhdskzyce  
+Answer: gjastn 
+Quotient = 0.08333333333333333
+Aphorism: rlcpjph"hocyw&%.w  
+Author: ovpltzj 
+Quotient = 0.23529411764705882
+Riddle: jcdaeslbsizwakitohjb+xgmxg&zh  
+Answer: wfo 
+Quotient = 0.06896551724137931
+Proverb: cfzafdvsgaeikhdrl-xuet%jfvg  
+Country: ibwshpw 
+Quotient = 0.07407407407407407
+Aphorism: dncx#ula,tqnw&tic  
+Author: agujmj 
+Quotient = 0.17647058823529413
+Aphorism: y%st&eenmzcti  
+Author: qgqxzimi 
+Quotient = 0.15384615384615385
+Riddle: ymy*  
+Answer: efxaocxc 
+Quotient = 0.25
+Riddle: ftx*rn,cti(iwsi&  
+Answer: hvc 
+Quotient = 0.25
+Proverb: wzhom"sc%djfg  
+Country: birycd 
+Quotient = 0.15384615384615385
+Proverb: xgpafgllxxwjpx,*efbhjlsvjanqimmpkg  
+Country: plf 
+Quotient = 0.058823529411764705
+Aphorism: +bmqoailrthitiqiiunfdappzvrtabtcuek%%cj  
+Author: jlaep 
+Quotient = 0.07692307692307693
+Aphorism: qry/zqd  
+Author: gpi 
+Quotient = 0.14285714285714285
+Riddle: y$cprhxufoqqotqws'q  
+Answer: fw 
+Quotient = 0.10526315789473684
+Riddle: avqtqe myweafwrsxtnnxutixxpmqsloeislpz$cqgkwaru  
+Answer: q 
+Quotient = 0.02127659574468085
+Aphorism: zx"y'w"jwjxd.qdq  
+Author: jhhrb 
+Quotient = 0.25
+Aphorism: ewyryqcczwgysqowcdzseyltf,gdbqvpndnvyk+h#+  
+Author: szjj 
+Quotient = 0.09523809523809523
+Aphorism: ra+zanhkqlkxfnzdxu&zwsgmgllitxtjcpnpvpxx  
+Author: xs 
+Quotient = 0.05
+Aphorism: kltamq)r$iiknbscfwvlwiypsyubere  
+Author: bu 
+Quotient = 0.06451612903225806
+Riddle: wgtblhabwnxvzg-dezrdxraupbzsowmuyfppdebbfdnbbheok  
+Answer: es 
+Quotient = 0.02040816326530612
+Aphorism: guthjcfdxawnaxdm.gjrskdv'ocnmduekadmpbqalysfyas  
+Author: l 
+Quotient = 0.0425531914893617
+Aphorism: xocff/zr  
+Author: qwdr 
+Quotient = 0.125
+Riddle: lbllehcejg!irejmdkvfusxkzwfodrlojlzfacnxxbmamlrl  
+Answer: x 
+Quotient = 0.020833333333333332
+Aphorism: u+p(%pxrd  
+Author: enxn 
+Quotient = 0.3333333333333333
+Proverb: ,  
+Country: wifrcbw 
+Quotient = 1.0
+Proverb: *c  
+Country: gnlldlac 
+Quotient = 0.5
+Proverb: fkkv"mccvnvewk%lhlphgaq%anuqusnvsmtqf%  
+Country: pc 
+Quotient = 0.10526315789473684
+Riddle: *shmlldb*uwbvaygb!fetho  
+Answer: whraxl 
+Quotient = 0.13043478260869565
+Proverb: hlyyff/q ufrykjltvbp'j  
+Country: tlrcb 
+Quotient = 0.09090909090909091
+Proverb: fpbpmx   
+Country: npgy 
+Quotient = 0.0
+Aphorism: dtpigemrtvuanjs)mhiijxg%vtnuykdyb  
+Author: bccjlrp 
+Quotient = 0.06060606060606061
+Proverb: nfxigxbslniiqrupmxmncmsytdobcbfacsw$dryp  
+Country: cqxcs 
+Quotient = 0.025
+Aphorism: pvonobenvfjr"grfxzsvpkovmckdhx  
+Author: hal 
+Quotient = 0.03333333333333333
+Aphorism: v+w  
+Author: cfrapblc 
+Quotient = 0.3333333333333333
+Riddle: q$(umyidlon.  
+Answer: gmaka 
+Quotient = 0.25
+Aphorism: cci/mjyfcgtgiljvjqt  
+Author: ozpgsibb 
+Quotient = 0.05263157894736842
+Aphorism: ulqwgwnf#kqvuqhzgk)zk-lsrtn/ta  
+Author: dgvlqf 
+Quotient = 0.13333333333333333
+Aphorism: qmrmzr%  
+Author: dkuocsi 
+Quotient = 0.14285714285714285
+Aphorism: &eakhayo.be+xdjusoqlmgcdjlipb  
+Author: y 
+Quotient = 0.10344827586206896
+Aphorism: xs)arojmxolmeferq.qlldu rfxce  
+Author: svqjtyp 
+Quotient = 0.06896551724137931
+Proverb: qgjz%trfhialiivk  
+Country: wfhauyp 
+Quotient = 0.0625
+Riddle: #h'  
+Answer: tnt 
+Quotient = 0.6666666666666666
+Proverb: to&tpa.rem!asp  
+Country: vletztm 
+Quotient = 0.21428571428571427
+Aphorism: sxafl'aifgtczezjnuswvcjsjwkfinxekfm  
+Author: fe 
+Quotient = 0.02857142857142857
+Proverb: jod$lyll*bmtlx  
+Country: x 
+Quotient = 0.14285714285714285
+Aphorism: fxds&pkfyhmcyean%apbztcg  
+Author: nevmsp 
+Quotient = 0.08333333333333333
+Proverb: gzhc drzboc,ultfeqhcu&muvtlgrfpoholgtmtaz  
+Country: tkmhyrb 
+Quotient = 0.04878048780487805
+Riddle: oamvtplhvfz-  
+Answer: emwuugon 
+Quotient = 0.08333333333333333
+Proverb: jb-p(mzbndnfbcjopjkxuowe(csebbxbpv(  
+Country: is 
+Quotient = 0.11428571428571428
+Aphorism: eesaw%me'jfjcvk"  
+Author: nvo 
+Quotient = 0.1875
+Aphorism: sk%bmqlosjjmgyunygfzzvhbpwcbizhrlphdhfo'#  
+Author: egziuafl 
+Quotient = 0.07317073170731707
+Proverb: vvmbmvz.iitszh,wt-/jlddpb  
+Country: s 
+Quotient = 0.16
+Riddle: vzgfgzrfczwwuzhmmtdkgofnajocxo(kkq  
+Answer: bsooasy 
+Quotient = 0.029411764705882353
+Riddle: &f,  
+Answer: lkzudy 
+Quotient = 0.6666666666666666
+Proverb: b%iuzsqjqwft'  
+Country: qa 
+Quotient = 0.15384615384615385
+Proverb: uoyeqnrl(jcdpum'  
+Country: hdrbzqum 
+Quotient = 0.125
+Proverb: cicpslneqt,ybnydiclkueniroa$udlk$ik  
+Country: zslftcfe 
+Quotient = 0.08571428571428572
+Aphorism: co-&ikcfrtbc)(  
+Author: tpbu 
+Quotient = 0.2857142857142857
+Aphorism: mlcgwtcz(tkiplwepn$pcjnhegt#km  
+Author: igmvwvw 
+Quotient = 0.1
+Aphorism: dghf-fvpoddlemt$cggd%sxrj&  
+Author: jkdpvh 
+Quotient = 0.15384615384615385
+Aphorism: tnepm&,bi-  
+Author: fjpu 
+Quotient = 0.3
+Proverb: hkywkqwuwbqwtuwrdnrpvttft/n"  
+Country: vihjzxlq 
+Quotient = 0.07142857142857142
+Riddle: qahskjxnxsxzdohfekqpgdzbavsgqsokynwjh&  
+Answer: bfuowzfk 
+Quotient = 0.02631578947368421
+Aphorism: 'pmuj('ehrobztsk  
+Author: tjma 
+Quotient = 0.1875
+Aphorism: yd.hxuxqlixcnqmlnhdltudvkgaeftvkj  
+Author: yj 
+Quotient = 0.030303030303030304
+Riddle: ,%  
+Answer: dne 
+Quotient = 1.0
+Aphorism: +tgoaaksfhzxeqoovbbyavta  
+Author: xvladdm 
+Quotient = 0.041666666666666664
+Proverb: )  
+Country: cgabrxfm 
+Quotient = 1.0
+Aphorism: h-i*gdlljjffinpvklllpzxeacagkaxpsn  
+Author: iate 
+Quotient = 0.058823529411764705
+Aphorism: dg#glyibgg  
+Author: etbov 
+Quotient = 0.1
+Riddle: hcgcloosxdjvcbgcfwvcwahqb.uxy%o"ue  
+Answer: wukccbdp 
+Quotient = 0.08823529411764706
+Proverb: mpfuvyfnmxizympvdgyizkgagzzvrud("fnu  
+Country: sarchqc 
+Quotient = 0.05555555555555555
+Riddle: oesw)wltakfrdmxp"fzuqonmwlnsg  
+Answer: vonpkpgk 
+Quotient = 0.06896551724137931
+Aphorism: bhfxb(tyooldjywogi  
+Author: frigfl 
+Quotient = 0.05555555555555555
+Aphorism: vbqdnfzfio"hmfoqzqthlbxgnqpmmuaesk  
+Author: gyn 
+Quotient = 0.029411764705882353
+Riddle: gkrllpalk&ncdsjxxaffuiiyflivzcal,  
+Answer: r 
+Quotient = 0.06060606060606061
+Aphorism: hej,fwh"rsji$vxsv(  
+Author: kudu 
+Quotient = 0.2222222222222222
+Proverb: alp&aqo.r)idh  
+Country: vuye 
+Quotient = 0.23076923076923078
+Aphorism: sqzp+ksrsverg+upwhlmhygkjebq  
+Author: kc 
+Quotient = 0.07142857142857142
+Proverb: jtmb'fmbvwynr  
+Country: b 
+Quotient = 0.07692307692307693
+Proverb: hyss$uvjjyt%lhijkcdr+gsuucxnj  
+Country: mlli 
+Quotient = 0.10344827586206896
+Proverb: cxokwhotzpe,(zwsuayeqgnkcorjgokpq  
+Country: pdxlnaf 
+Quotient = 0.06060606060606061
+Aphorism: vt)gbpmwippeqcq+&bz  
+Author: mn 
+Quotient = 0.15789473684210525
+Aphorism: em&hosryxijtdoazmajfp)hrxz!!  
+Author: e 
+Quotient = 0.14285714285714285
+Aphorism: 'cnmfunuaabaktgrgwagdzbxaxdfxl  
+Author: amjdkj 
+Quotient = 0.03333333333333333
+Riddle: bkydvt,qwfxw!riwafmwylepzfzjbtyht  
+Answer: n 
+Quotient = 0.06060606060606061
+Aphorism: xm/gosi##hnjcltsncsqjuavvzhdwjmpcfcc)dika  
+Author: gfeplom 
+Quotient = 0.0975609756097561
+Aphorism: txuvtduyfasfgjeqxdsaraf.cmbylqeqtltvrwg#  
+Author: rh 
+Quotient = 0.05
+Riddle: rnccfdmjejtl%srpwlchjonevnvu-mu  
+Answer: rrm 
+Quotient = 0.06451612903225806
+Aphorism: szscqvabto$bkvqmwargitcbdv$qfbilbol  
+Author: npbvijqn 
+Quotient = 0.05714285714285714
+Aphorism: s)bmminz  
+Author: eak 
+Quotient = 0.125
+Riddle: !  
+Answer: xdouyg 
+Quotient = 1.0
+Proverb: wfeizehtgrmedhxxqhdvl(  
+Country: dlmtbt 
+Quotient = 0.045454545454545456
+Riddle: p+#%  
+Answer: enljoyl 
+Quotient = 0.75
+Aphorism: imxonf&qrhzy)bzkyjxqvvyyeozq zslotqluex  
+Author: qxhfkz 
+Quotient = 0.05128205128205128
+Aphorism: gqysccsaa,h#scl/  
+Author: hsd 
+Quotient = 0.1875
+Aphorism: +(  
+Author: arlpsd 
+Quotient = 1.0
+Proverb: ndxmyefufcctlzgzsp)ysozoyobtoje  
+Country: ir 
+Quotient = 0.03225806451612903
+Riddle: llldgjttohx+pa.mferqudh*  
+Answer: vfrvyk 
+Quotient = 0.125
+Aphorism: fvxcspydhqkdf'wbozyflcb  
+Author: piu 
+Quotient = 0.043478260869565216
+Proverb: ohk& ippty)  
+Country: pqgack 
+Quotient = 0.18181818181818182
+Riddle: e(btu+y  
+Answer: aylahrsl 
+Quotient = 0.2857142857142857
+Aphorism: onwrlsbjgrywbtdlaovqgs)lmqiwqslgxy'wwfzxuldqyd  
+Author: yyhlyxrn 
+Quotient = 0.043478260869565216
+Riddle: prbkdfqbnccgupgnfaeukptv#eifd(dndmwldj'  
+Answer: x 
+Quotient = 0.07692307692307693
+Proverb: iweijdechgecpfwhmbqxhystbt(rjgtfrfifydu  
+Country: bbvvuflr 
+Quotient = 0.02564102564102564
+Aphorism: enevyiz"fraowtjt&i.othmk*wndvbs  
+Author: wyqrfpy 
+Quotient = 0.12903225806451613
+Proverb: kngof"isdtx  
+Country: t 
+Quotient = 0.09090909090909091
+Riddle: huult*%yhsgwhsmjbqawlklwwonqmv  
+Answer: l 
+Quotient = 0.06666666666666667
+Aphorism: rrbom,mnrg foj.oh+  
+Author: sgbxk 
+Quotient = 0.16666666666666666
+Aphorism: huzisyotbg)epregdgp&xxtsdhkddtabgsapdvranuhgc  
+Author: akxw 
+Quotient = 0.044444444444444446
+Proverb:  pc  
+Country: xmfi 
+Quotient = 0.0
+Proverb: uph!  
+Country: ahzi 
+Quotient = 0.25
+Aphorism: 'bwzqetowsfjbgml*  
+Author: quanoun 
+Quotient = 0.11764705882352941
+Proverb: cxnszfzrpnrroqeer'zlar  
+Country: kubpuih 
+Quotient = 0.045454545454545456
+Aphorism: hdvx hwy'j'iezaamrskgwzllc'kz  
+Author: cnlz 
+Quotient = 0.10344827586206896
+Proverb: oz#p/i  
+Country: ictjipp 
+Quotient = 0.3333333333333333
+Aphorism: khg!-g&cyfdgm#  
+Author: engbi 
+Quotient = 0.2857142857142857
+Aphorism: 'cyrz x#  
+Author: iobevbq 
+Quotient = 0.25
+Aphorism: ljet+cv  
+Author: nzg 
+Quotient = 0.14285714285714285
+Aphorism: i*dl  
+Author: oeeibot 
+Quotient = 0.25
+Proverb: v"jl&kk  
+Country: m 
+Quotient = 0.2857142857142857
+Proverb: qkzldiuyd*rdjxcvksmtoijnpuljrtgecwdfmc  
+Country: hncwrg 
+Quotient = 0.02631578947368421
+Aphorism: qviz,xm)qqzncyicffix)  
+Author: r 
+Quotient = 0.14285714285714285
+Proverb: bioofbxdceysnmhudoclyesdajdykumginlvv,bs.hxmsd  
+Country: zoujwk 
+Quotient = 0.043478260869565216
+Aphorism: axrwj"qhph  
+Author: rh 
+Quotient = 0.1
+Proverb: 'j#f*i  
+Country: dyaixacj 
+Quotient = 0.5
+Aphorism: ofc/ppukqtig)pydxzh  
+Author: jm 
+Quotient = 0.10526315789473684
+Riddle: "pazxlatm rutclctpeoti%ixfekqhwzrdvhfwd  
+Answer: jvnqo 
+Quotient = 0.05128205128205128
+Riddle: xfpqcx%twuykfxsxjgnltwk  
+Answer: ym 
+Quotient = 0.043478260869565216
+Riddle: fittaurjkgczqbfybwkiyujhlrufwtttjpjkqz)  
+Answer: ih 
+Quotient = 0.02564102564102564
+Proverb: ztbwbrcwhgexiqi*tckdoytpmqwaekba  
+Country: ffohajo 
+Quotient = 0.03125
+Riddle: mcsnxoou'itmwsezbkfogarbymyydph  
+Answer: esbz 
+Quotient = 0.03225806451612903
+Riddle: bfzx n%dje.  
+Answer: kxmimh 
+Quotient = 0.18181818181818182
+Proverb: tqohlvxjunqzcoyaemddkomqsxgc dinptpwgxjysxp  
+Country: idwtmyzn 
+Quotient = 0.0
+Aphorism: attnp,cbguelfhwvhshdttmouijehohhiwenypso%gbgm-  
+Author: ywqogb 
+Quotient = 0.06521739130434782
+Riddle: ynrjfowdzhosnyuxboc%p  
+Answer: g 
+Quotient = 0.047619047619047616
+Riddle: qzs'lvyhf(hmr&vwxsqczvriiqcuitlmvjjymk  
+Answer: b 
+Quotient = 0.07894736842105263
+Proverb: q+p-hpjueawahrrsycyicqi*  
+Country: gq 
+Quotient = 0.125
+Riddle: $tkligthtijluysmhtqiwue"aoitqnpynhlo%gkhl  
+Answer: odohd 
+Quotient = 0.07317073170731707
+Riddle: s)uvjmf  
+Answer: kj 
+Quotient = 0.14285714285714285
+Proverb: hxlacjqxg+ukmhtzsiqukoknudqtizqjbohdmn'b)i  
+Country: hr 
+Quotient = 0.07142857142857142
+Proverb: y*nu  
+Country: uy 
+Quotient = 0.25
+Proverb: rz'v#ncsbs"jvcjyijqvgoppjgozup  
+Country: skkwb 
+Quotient = 0.1
+Riddle: ,z(siwize/)if  
+Answer: slkgt 
+Quotient = 0.3076923076923077
+Riddle: z,nyouzqyztzcntyovzpnacmp  
+Answer: fqfqqma 
+Quotient = 0.04
+Aphorism: eiosqfulwvoydbtzwmpxgyom'lsfbgkgzcgeqtemucian/  
+Author: kxkzy 
+Quotient = 0.043478260869565216
+Riddle: whgv llzrmqiinlz$mpzndicdkvubjfj,xfwrljnfwkoiik  
+Answer: pwlbv 
+Quotient = 0.0425531914893617
+Riddle: -ds&ozlqjizq  
+Answer: lbgy 
+Quotient = 0.16666666666666666
+Aphorism: sjbdxzgxz)p&sz  
+Author: wpr 
+Quotient = 0.14285714285714285
+Proverb: yamzbeciyzd"kajeaiguibwlo  
+Country: xbdn 
+Quotient = 0.04
+Aphorism: 'cqvpthlwj)yljmgwjvxwxyvmrjs  
+Author: xw 
+Quotient = 0.07142857142857142
+Aphorism: f$!  
+Author: zewelou 
+Quotient = 0.6666666666666666
+Proverb: naktrgfbjl&tgynkdeu'dxnfjqixrtjzvi-  
+Country: nmdcyoa 
+Quotient = 0.08571428571428572
+Proverb: zgriqj!juuc .iguvuixstpscnmen"ndxcfotmyqqd  
+Country: ywllgvl 
+Quotient = 0.07142857142857142
+Proverb: /  
+Country: syog 
+Quotient = 1.0
+Riddle: sluxkepihb,taag(!lmbufxnkrjr  
+Answer: wh 
+Quotient = 0.10714285714285714
+Proverb: wbmfhartr!*eaza#  
+Country: px 
+Quotient = 0.1875
+Aphorism: tma/  
+Author: pivli 
+Quotient = 0.25
+Aphorism: v i  
+Author: ehhkcy 
+Quotient = 0.0
+Riddle: iauhzrbczajq(p  
+Answer: efc 
+Quotient = 0.07142857142857142
+Aphorism: &/  
+Author: xyuoluu 
+Quotient = 1.0
+Proverb: #dkvdepwaufqyxluqidm(wd,tlbcuo gp  
+Country: jll 
+Quotient = 0.09090909090909091
+Proverb: asfpyrmstgtixkldijbvqgpeauduvyj/bxgboopxsgmsq  
+Country: pnwgtaq 
+Quotient = 0.022222222222222223
+Proverb: hynbd.yoanq  
+Country: xxil 
+Quotient = 0.09090909090909091
+Riddle: tyeznqcf)ondo.zodgqt$&wyfrczmbjuyjrgvsdc  
+Answer: mzgjs 
+Quotient = 0.1
+Proverb: sy#fmzlnswrlgfiza  
+Country: jlxgovo 
+Quotient = 0.058823529411764705
+Aphorism: qlzsifxpvsglwnnhstbg-sgygfxt%oclexttt  
+Author: mtij 
+Quotient = 0.05405405405405406
+Proverb: %px&  
+Country: dy 
+Quotient = 0.5
+Riddle: sswemtrge ymx#  
+Answer: auwo 
+Quotient = 0.07142857142857142
+Aphorism: m-jsxfjh  
+Author: o 
+Quotient = 0.125
+Proverb: l/hoccbwhxve$liuchtqr"mv  
+Country: paxe 
+Quotient = 0.125
+Riddle: vuldqtccvx$ihijsavjqrz  
+Answer: pjyoamg 
+Quotient = 0.045454545454545456
+Riddle: paauvasnbqgkqionrtfgzi,pqowhgthsxczyvu  
+Answer: mymeev 
+Quotient = 0.02631578947368421
+Riddle: plgfurlqnaehtcmjxqtcawe%bgsp  
+Answer: sluvw 
+Quotient = 0.03571428571428571
+Proverb: f!pvwevye!hi%*cadigfdu  
+Country: f 
+Quotient = 0.18181818181818182
+Riddle: lfnkfld-eneoesq  
+Answer: nsnzzuy 
+Quotient = 0.06666666666666667
+Aphorism: (n%  
+Author: aqcp 
+Quotient = 0.6666666666666666
+Proverb: myfhobpmpmqfy/zgmsb   
+Country: ws 
+Quotient = 0.05
+Proverb: rwngcpgjftrigxpkytohqecllkxhlewmbcpvxpsel!j  
+Country: k 
+Quotient = 0.023255813953488372
+Proverb: h)mtzbkapvajm'imiolnethtrru+  
+Country: ppoh 
+Quotient = 0.10714285714285714
+Riddle: bhrndghdcjfdqnq*xkrryx  
+Answer: m 
+Quotient = 0.045454545454545456
+Aphorism: yhmksqjxb#vegxnkdxaofqmjsul  
+Author: zs 
+Quotient = 0.037037037037037035
+Proverb: eduvkecrszzbiyytep/kzr/jmafjbwtfpbufimkx,  
+Country: cp 
+Quotient = 0.07317073170731707
+Proverb: zqxckaq)yuvjrxiqkszqqqduwiudmqda(u  
+Country: orypwfol 
+Quotient = 0.058823529411764705
+Proverb: xwgu.&  
+Country: srhd 
+Quotient = 0.3333333333333333
+Proverb: ghrzpcom'nbxeiasqzbt.tdo  
+Country: rm 
+Quotient = 0.08333333333333333
+Aphorism: %uilnfqnt-suatevrqxr#  
+Author: opnegsrk 
+Quotient = 0.14285714285714285
+Proverb: zohxbczmrvm ,pfjs  
+Country: kepga 
+Quotient = 0.058823529411764705
+Aphorism:    
+Author: wbxogg 
+Quotient = 0.0
+Riddle: pjesidocl#-  
+Answer: y 
+Quotient = 0.18181818181818182
+Aphorism: fhyxb(wuwdky  
+Author: wz 
+Quotient = 0.08333333333333333
+Riddle: loxxhxdmfgwtsanwnt#mfglhoquoq-gvvo)  
+Answer: tagh 
+Quotient = 0.08571428571428572
+Aphorism: n)).  
+Author: pfmkve 
+Quotient = 0.75
+Proverb: sxy$rbejxjvyzuwnfzcu*  
+Country: gs 
+Quotient = 0.09523809523809523
+Aphorism: h)uotipgqdjbg-nrsuep/ktuje  
+Author: r 
+Quotient = 0.11538461538461539
+Riddle: )*)  
+Answer: welr 
+Quotient = 1.0
+Aphorism: ksndasbb'/ruavadnbmo,q  
+Author: hvgcmue 
+Quotient = 0.13636363636363635
+Aphorism: iuqbmcdjgi)dtqn,l  
+Author: jtlfkzi 
+Quotient = 0.11764705882352941
+Proverb: xfl&uekturuz'nuzbfkfh  
+Country: lmyhd 
+Quotient = 0.09523809523809523
+Aphorism: xo sqgxach  
+Author: jhbrm 
+Quotient = 0.0
+Aphorism: yybkiwmgyridn*svpjrecheqf  
+Author: supf 
+Quotient = 0.04
+Riddle: )  
+Answer: zle 
+Quotient = 1.0
+Proverb: ybcgfrycf(mvp (rer  
+Country: ptgzx 
+Quotient = 0.1111111111111111
+Aphorism: alvjnoc-tsejahkgpxvhrhyhdd%eg"  
+Author: degf 
+Quotient = 0.1
+Riddle: er+!dzvdbitimctlbjek  
+Answer: owfhqiee 
+Quotient = 0.1
+Aphorism: b!+  
+Author: wf 
+Quotient = 0.6666666666666666
+Aphorism: #f&wab  
+Author: irlbcsk 
+Quotient = 0.3333333333333333
+Aphorism: qnp%gs&muvqw#m  
+Author: bvesd 
+Quotient = 0.21428571428571427
+Aphorism: nawqvem/dkloixujquairatujljfgxiplpnjy*txqhqr  
+Author: otob 
+Quotient = 0.045454545454545456
+Aphorism: ffhsj a(qvngkxf  
+Author: jmtsxcg 
+Quotient = 0.06666666666666667
+Aphorism: ad.nzwqhzdtywxszbwewsvpyzbfdkqfchlhgrwytzq  
+Author: telyn 
+Quotient = 0.023809523809523808
+Aphorism: rkktw$(fro+nrxiqmjnsy  
+Author: nn 
+Quotient = 0.14285714285714285
+Aphorism: nk#cx!+kbipdnpyixg"  
+Author: lai 
+Quotient = 0.21052631578947367
+Proverb: -vlhcphdztxlhjgtvxdckkcinjwppt  
+Country: vjmesum 
+Quotient = 0.03333333333333333
+Riddle: kyvsudwnfsnr"exbowr+rvzhm&nthwwx  
+Answer: hgdhrwti 
+Quotient = 0.09375
+Proverb: !  
+Country: gnw 
+Quotient = 1.0
+Aphorism: tnzi/uinldrr&rejdarz joiuf*rfkadzwyedzscvsj  
+Author: pcdqwl 
+Quotient = 0.06976744186046512
+Proverb: acd(eqfjalokct-funoknltub  
+Country: nlv 
+Quotient = 0.08
+Aphorism: pkv/yigofkvkcwgimcjzgtetzjelpkyiy*vulpt  
+Author: q 
+Quotient = 0.05128205128205128
+Aphorism: tph(mzwaq%pjoixc!lrv'  
+Author: pj 
+Quotient = 0.19047619047619047
+Riddle: zn/mtw  
+Answer: pbzqpees 
+Quotient = 0.16666666666666666
+Proverb: bpm(qudcfobiuvludtldftuyrsrftcenx"hmny'  
+Country: stalxrz 
+Quotient = 0.07692307692307693
+Aphorism: t"mpypyvkgbnzbzddsbrjgynfcmalwgtgw/vwqnjplwigl  
+Author: jpgb 
+Quotient = 0.043478260869565216
+Aphorism: gufoeorycrhkywxeew*gpkgfphvzhpuw"ia  
+Author: rjxaci 
+Quotient = 0.05714285714285714
+Proverb: xok-isgkotvqv"z!  
+Country: wi 
+Quotient = 0.1875
+Aphorism: *oksqs'%  
+Author: mjvkn 
+Quotient = 0.375
+Riddle: v'flxfjaqtlrlwqkwwdpv-  
+Answer: pzpbt 
+Quotient = 0.09090909090909091
+Proverb: pavqv nqeov  
+Country: cvkro 
+Quotient = 0.0
+Aphorism: ndeyuuwogwpfkijsrfjbek-fjscfsrqlvi  
+Author: hv 
+Quotient = 0.029411764705882353
+Aphorism: laeb&-uukdq*narliqs!  
+Author: ueifuuu 
+Quotient = 0.2
+Riddle: fwiosbzkomnugwukszcl$sgvlfxsvgepja-rekjfw  
+Answer: hcrspoll 
+Quotient = 0.04878048780487805
+Riddle: qzwydlgrdafzndfhpra/hwqv+vpgnum  
+Answer: ug 
+Quotient = 0.06451612903225806
+Aphorism: )vlisdhwfoxbjuhqx-dhyjg"mec%yaptpmuaim  
+Author: cacy 
+Quotient = 0.10526315789473684
+Riddle: d"rvlksnvpoxw(ozoyhddmionb-knzimdbhzvyjn!fqov  
+Answer: fgtejfw 
+Quotient = 0.08888888888888889
+Proverb: kjtagxaxbe#hsicixoveqjxvfhxofksfsupg&rmul  
+Country: dvvghlms 
+Quotient = 0.04878048780487805
+Proverb: rmrzqmotmbhcertiperht$$  
+Country: wfo 
+Quotient = 0.08695652173913043
+Aphorism: ssm h&)ezzauldquj  
+Author: xy 
+Quotient = 0.11764705882352941
+Aphorism: -  
+Author: sezuke 
+Quotient = 1.0
+Proverb: dgbcyu!jzogwzcc.uyqz  
+Country: aocftab 
+Quotient = 0.1
+Riddle: mlpdigsfkd!wflgljerjnbumbghr/gikcbook#aqipgwhjy  
+Answer: gvyqvyx 
+Quotient = 0.06382978723404255
+Riddle: weoxuzqqd-$k)coojpfkqnwhrkmoh!oihczj  
+Answer: qonpgk 
+Quotient = 0.1111111111111111
+Riddle: rhdotgympr#ytdglvbolozxhchcu!y&gdavfutr)u  
+Answer: ndridsd 
+Quotient = 0.0975609756097561
+Proverb: uhfpwzauldmrkntnjefz*jovxnh.hhvciakpio  
+Country: dpva 
+Quotient = 0.05263157894736842
+Riddle: exxkykso,d+uuhdouclmd+khokb  
+Answer: szj 
+Quotient = 0.1111111111111111
+Proverb: eiepdv/pozeahwzlivpegf)lvjljc#w  
+Country: ccnffjn 
+Quotient = 0.0967741935483871
+Riddle: vjkz/pl#jnankergakl#xraguyv%  
+Answer: hsc 
+Quotient = 0.14285714285714285
+Aphorism: rqrsm(xcw./sadbppn  
+Author: ahhl 
+Quotient = 0.16666666666666666
+Aphorism: rgdmwpp,e!zxjcqchn$  
+Author: pcdteasa 
+Quotient = 0.15789473684210525
+Riddle: ( hbkinwstgzbafifp*cdn)  
+Answer: ck 
+Quotient = 0.13043478260869565
+Aphorism: mqeirnuwfnsu qnctix  
+Author: sd 
+Quotient = 0.0
+Aphorism: k'fidpppkdwbbzej&  
+Author: kuda 
+Quotient = 0.11764705882352941
+Riddle: ohmytqdxdqn-njoivpmynbkekqbsclnym  
+Answer: g 
+Quotient = 0.030303030303030304
+Riddle: rkkuexvqlwcf'assddzj'finuorrwdjuiayxnoz  
+Answer: zpwbz 
+Quotient = 0.05128205128205128
+Aphorism: ek*t!  
+Author: dcpl 
+Quotient = 0.4
+Aphorism: adristpyxrnxycgnstvbriehniibhc(bhulrn&  
+Author: qol 
+Quotient = 0.05263157894736842
+Riddle: xj,yjphejtdrezrcwtrdf/sty  
+Answer: ergyjmh 
+Quotient = 0.08
+Riddle: zlgqshdyvuanzalykgmrgvqti#lpv  
+Answer: qpbvoz 
+Quotient = 0.034482758620689655
+Riddle: urqq*fd  
+Answer: xwtgtou 
+Quotient = 0.14285714285714285
+Riddle: xhd!acgglwxtqfj"hrezhycdguwpqejxomiezsspumhieuvu  
+Answer: igvt 
+Quotient = 0.041666666666666664
+Proverb: x/-  
+Country: eygwe 
+Quotient = 0.6666666666666666
+Proverb: y(njrdomb'qvieeo"yqffz  
+Country: ko 
+Quotient = 0.13636363636363635
+Riddle: cvmzz(dvwuzu!byzykp  
+Answer: zuqlrix 
+Quotient = 0.10526315789473684
+Proverb: %  
+Country: msm 
+Quotient = 1.0
+Proverb: w')hnu)en  
+Country: ig 
+Quotient = 0.3333333333333333
+Proverb: (imvfbxyblmivdovbuk*bhvlntfwblyvwwhaz  
+Country: jfqocor 
+Quotient = 0.05405405405405406
+Riddle: dzytxrujtyprexjxdtlptzutcaeygak(fxnsauudotkoynyou  
+Answer: yf 
+Quotient = 0.02040816326530612
+Proverb: zedhxyfvjcfrezczqnuplzzmftyig.uvgtui'zfc  
+Country: skycg 
+Quotient = 0.05
+Riddle: oghdmchpttkyeeygwthikyakskwcfiztnglcna,vesnprtbhd  
+Answer: wgrcf 
+Quotient = 0.02040816326530612
+Riddle: brrlr#qpu+-nnqsjow  
+Answer: zwjcven 
+Quotient = 0.16666666666666666
+Aphorism: egpb$xlyzfko'y$yzcekcyazsjvvoc/hyajqwvu  
+Author: cuzztf 
+Quotient = 0.10256410256410256
+Aphorism: jjcaxys$vck&ggmdjenqudvkcqjjazro  
+Author: bxybyiwn 
+Quotient = 0.0625
+Riddle: fioypj)l  
+Answer: fhq 
+Quotient = 0.125
+Proverb: dqrez(nfyunvchkyjbaqfgswt$vyjpfymehd  
+Country: uocq 
+Quotient = 0.05555555555555555
+Proverb: xbtpo)$  
+Country: yzito 
+Quotient = 0.2857142857142857
+Riddle: )drzynta(dsuyedtvxqqzddkxljghxobxqbbolpehiselb  
+Answer: yborunny 
+Quotient = 0.043478260869565216
+Aphorism: mftgcbxgrd+)!  
+Author: wepmq 
+Quotient = 0.23076923076923078
+Riddle: petgzi!gdnbvmxlmgcobkyw  
+Answer: nadjokt 
+Quotient = 0.043478260869565216
+Proverb: zhjtvu'eelw'dnuixszlgkgrrswholvkvtpbwt  
+Country: dozf 
+Quotient = 0.05263157894736842
+Proverb: olaovhp(o  
+Country: fgsxr 
+Quotient = 0.1111111111111111
+Proverb: puvv%xzxykwknyiduxcw,.eov  
+Country: ef 
+Quotient = 0.12
+Proverb: euqjhruaz,nzgis#fihkagwlzmxpme  
+Country: kuikaab 
+Quotient = 0.06666666666666667
+Aphorism: ll,nfuljagp$arbnrsdwflev  
+Author: kqepj 
+Quotient = 0.08333333333333333
+Riddle: zfsjeverptcmdtuibusbos#dufiztptemwxcidzwytpv  
+Answer: liact 
+Quotient = 0.022727272727272728
+Proverb: qeccfqw#$  
+Country: e 
+Quotient = 0.2222222222222222
+Aphorism: w(egbcmhckqrpcpkclcxzoinzipdxdwofhonrlvyw(u  
+Author: sffxxy 
+Quotient = 0.046511627906976744
+Aphorism: jgbktgy$mvnbnrhtg,hwcrwgyrrzrzhfeciftav.kl  
+Author: v 
+Quotient = 0.07142857142857142
+Proverb: wkwptagxmrwvdybxl-rqtrgzcdhdt+ixrnbdhsccpp  
+Country: py 
+Quotient = 0.047619047619047616
+Aphorism: ge#ujrvblafek(jonoyhxvsusztztpe&ptpxqrb)xhpr  
+Author: mhdm 
+Quotient = 0.09090909090909091
+Aphorism: pdgp-acfixj'-sblnvhwz%glhstsrpt  
+Author: faskzrzs 
+Quotient = 0.12903225806451613
+Proverb: pkqp+redqqixqtpbpycudmwplkzi#yljxqnscqirhvs  
+Country: hmt 
+Quotient = 0.046511627906976744
+Aphorism: cdrsjkovtuhousdptskieim/gmimq()nkxeut$pj  
+Author: rq 
+Quotient = 0.1
+Proverb: matjsinas/qsmzrpiqvjnoml*fpqgeq  
+Country: dwshwxui 
+Quotient = 0.06451612903225806
+Proverb: vyupgwu-ipkw  
+Country: ujqkoka 
+Quotient = 0.08333333333333333
+Aphorism: jokghpyjo,otzyty  
+Author: acf 
+Quotient = 0.0625
+Proverb: qczfffskfvuogmi(vykqjcxvfpexwbyxatafuenmqdfg'  
+Country: o 
+Quotient = 0.044444444444444446
+Riddle: tzhdsucdyjvccxoqudiksqimnwxpo%upfimbiixg  
+Answer: u 
+Quotient = 0.025
+Aphorism: leeqtllduemrninbiybgwboqn'vozggqytd  
+Author: sewx 
+Quotient = 0.02857142857142857
+Riddle: ,  
+Answer: ydgdms 
+Quotient = 1.0
+Aphorism: (  
+Author: f 
+Quotient = 1.0
+Aphorism: p/ectosgjteiwl  
+Author: zyc 
+Quotient = 0.07142857142857142
+Proverb: skbtt' kfwkx  
+Country: xaey 
+Quotient = 0.08333333333333333
+Riddle: fww$  
+Answer: sbxy 
+Quotient = 0.25
+Proverb: ujpuugblclwvwh!rddn&wwtpa kpmunogtfjz*c  
+Country: glzmufem 
+Quotient = 0.07692307692307693
+Aphorism: d/jovwyqxprhbcfzrgorbrekob  
+Author: s 
+Quotient = 0.038461538461538464
+Riddle: vxtnjssbxdsi)xwegnonfoluffionsxdknlcwwv'gvndc  
+Answer: gulto 
+Quotient = 0.044444444444444446
+Aphorism: kcumqxuj*#zysl$  
+Author: jh 
+Quotient = 0.2
+Riddle: rneupqwjp(/qj  
+Answer: opj 
+Quotient = 0.15384615384615385
+Proverb: nuoqoydfv-w$lcdtgxpdcvmr  
+Country: dtokz 
+Quotient = 0.08333333333333333
+Aphorism: jtqz/swsogvsabpbftgygjbxlgdccbgyeyihmrzif*klp  
+Author: o 
+Quotient = 0.044444444444444446
+Aphorism: uthgywhhcgzxu!jzppcnf  
+Author: bkrbvu 
+Quotient = 0.047619047619047616
+Aphorism: bueppyavhl.swledbphrngbgeah+l   
+Author: ggxkrk 
+Quotient = 0.06666666666666667
+Aphorism: qqndluvsxraq-lxvbregsutykjs-yvzovwlxzdgmkoeok  
+Author: jpom 
+Quotient = 0.044444444444444446
+Proverb: ,rbpmshb  
+Country: rsjkj 
+Quotient = 0.125
+Proverb: "vbeb yf&ga  
+Country: h 
+Quotient = 0.18181818181818182
+Riddle: dxewhjairqklvnrlyxiju)i"czhsnem  
+Answer: gqhunoj 
+Quotient = 0.06451612903225806
+Riddle: gdizumcmmtqqpfgnzxpnwhyh'tcvdltwmfbmdrkb  
+Answer: efxnsxtk 
+Quotient = 0.025
+Proverb: i"qkj  
+Country: x 
+Quotient = 0.2
+Riddle: kjulwius.)byugutkwzrkhzfonjurukyrscmcvv+imrhgn  
+Answer: ygcnfjaz 
+Quotient = 0.06521739130434782
+Proverb: &#  
+Country: lkoorv 
+Quotient = 1.0
+Riddle: cvzg(dbpowowrkrlanafjltbqzdaozqkteqitp  
+Answer: pxlgn 
+Quotient = 0.02631578947368421
+Proverb: ujaeovumthdrciix'xxsmxurvnwzrnnngdmhsza  
+Country: ijyzd 
+Quotient = 0.02564102564102564
+Proverb: &odrozk-)  
+Country: fgfi 
+Quotient = 0.3333333333333333
+Proverb: sipuyixsblwxxksfqpfdjtcsnwtzmkggb$slgfoantvtbnke  
+Country: dj 
+Quotient = 0.020833333333333332
+Aphorism: rrhqgpkmvzbuysag.yv  
+Author: kmhmnbmw 
+Quotient = 0.05263157894736842
+Proverb: )  
+Country: rfx 
+Quotient = 1.0
+Riddle: iykzryos#ccv'xirlcstryijxxvvb/  
+Answer: oolwfquv 
+Quotient = 0.1
+Proverb: ouicjh%yqcuynkjajtlj  
+Country: zgglie 
+Quotient = 0.05
+Aphorism: aftivfp&khjji%  
+Author: lqen 
+Quotient = 0.14285714285714285
+Proverb: b)dugtbm"qmufgiwfqro  
+Country: b 
+Quotient = 0.1
+Arithmetic mean = 0.17098635369695586
+Container contains  = 257 phrase(s)
+Aphorism: blxwmv!#m  
+Author: iko 
+Quotient = 0.2222222222222222
+Proverb: /  
+Country: cyubqua 
+Quotient = 1.0
+Riddle: vtetc&sakk*  
+Answer: pcndars 
+Quotient = 0.18181818181818182
+Riddle: )ghhnum+jcncx*  
+Answer: xngi 
+Quotient = 0.21428571428571427
+Aphorism: d$ol$kwtbkqtq%  
+Author: i 
+Quotient = 0.21428571428571427
+Riddle: wa+/ypwgw+p"dwp  
+Answer: nfz 
+Quotient = 0.26666666666666666
+Riddle: zb/.,  
+Answer: vrfrt 
+Quotient = 0.6
+Proverb: !wa"v)w"bse  
+Country: mnrycft 
+Quotient = 0.36363636363636365
+Proverb: lg-'*%  
+Country: qk 
+Quotient = 0.6666666666666666
+Proverb: my$pa)  
+Country: unybjbmj 
+Quotient = 0.3333333333333333
+Aphorism: gztly'noc!-ens  
+Author: dfcqyy 
+Quotient = 0.21428571428571427
+Riddle: txxqvg&c!"goodja'  
+Answer: steo 
+Quotient = 0.23529411764705882
+Riddle: tvg-jekwqyiwc'o-   
+Answer: xlc 
+Quotient = 0.17647058823529413
+Aphorism: .zjcida'e%hpmpcucunqu'  
+Author: lov 
+Quotient = 0.18181818181818182
+Proverb: aw%bx/  
+Country: mbsj 
+Quotient = 0.3333333333333333
+Aphorism: b'jp'im  
+Author: dogewmgd 
+Quotient = 0.2857142857142857
+Riddle: qc#n!jrxflvqk/ece  
+Answer: qnbdbgkr 
+Quotient = 0.17647058823529413
+Proverb: vw$hdfa"  
+Country: kmuwbd 
+Quotient = 0.25
+Aphorism: d.z  
+Author: f 
+Quotient = 0.3333333333333333
+Aphorism: ,qtyw  
+Author: rxeb 
+Quotient = 0.2
+Riddle: %anxhs +  
+Answer: vrt 
+Quotient = 0.25
+Riddle: "xus+  
+Answer: vztl 
+Quotient = 0.4
+Proverb: b/ee-umn  
+Country: qd 
+Quotient = 0.25
+Proverb: $)  
+Country: tpdbrpq 
+Quotient = 1.0
+Aphorism: *&kmjk   
+Author: q 
+Quotient = 0.2857142857142857
+Riddle: ttt*  
+Answer: apzzw 
+Quotient = 0.25
+Proverb: ptz!)a/  
+Country: zvfzuj 
+Quotient = 0.42857142857142855
+Proverb: yqchz-jwx*o  
+Country: vgcevv 
+Quotient = 0.18181818181818182
+Riddle: w*vn,,  
+Answer: uwjuel 
+Quotient = 0.5
+Riddle: kmg$xfwbl)"p+  
+Answer: dxh 
+Quotient = 0.3076923076923077
+Aphorism: (  
+Author: qdnxzi 
+Quotient = 1.0
+Proverb: +z#  
+Country: aate 
+Quotient = 0.6666666666666666
+Aphorism: y(zh$jf%  
+Author: eisr 
+Quotient = 0.375
+Aphorism: jaa'!hjx!rcjb ujx  
+Author: xsevvur 
+Quotient = 0.17647058823529413
+Riddle: uv!,  
+Answer: dbrk 
+Quotient = 0.5
+Riddle: ppa$n  
+Answer: gfk 
+Quotient = 0.2
+Proverb: eitkga#m#  
+Country: yyyebeib 
+Quotient = 0.2222222222222222
+Aphorism: #y!  
+Author: dufhamb 
+Quotient = 0.6666666666666666
+Proverb: +  
+Country: z 
+Quotient = 1.0
+Proverb: %  
+Country: xsf 
+Quotient = 1.0
+Proverb: id-)osupx)f  
+Country: motbkbt 
+Quotient = 0.2727272727272727
+Riddle: &&  
+Answer: ljnnmtw 
+Quotient = 1.0
+Riddle: zy&mtvesf/)qomc.  
+Answer: oioieabn 
+Quotient = 0.25
+Aphorism: olb)eqqwl/&pxqfze  
+Author: m 
+Quotient = 0.17647058823529413
+Proverb: vexe,yqn"  
+Country: emuzab 
+Quotient = 0.2222222222222222
+Proverb: nr.!+  
+Country: apcrl 
+Quotient = 0.6
+Aphorism: $mqfos!vd*  
+Author: s 
+Quotient = 0.3
+Riddle: l#  
+Answer: q 
+Quotient = 0.5
+Aphorism: $  
+Author: t 
+Quotient = 1.0
+Proverb: j,opo%p&#  
+Country: t 
+Quotient = 0.4444444444444444
+Proverb: mdsoil*y#asthhc"  
+Country: qcrb 
+Quotient = 0.1875
+Riddle: mlx)zey+xz )  
+Answer: uvqv 
+Quotient = 0.25
+Aphorism: v&  
+Author: xxvj 
+Quotient = 0.5
+Proverb: hghqsozsyj&loz-tk!%  
+Country: pgxslf 
+Quotient = 0.21052631578947367
+Proverb: ,  
+Country: skdo 
+Quotient = 1.0
+Proverb: "lfrrkcobkuu(sz.  
+Country: j 
+Quotient = 0.1875
+Aphorism: /gr  
+Author: jyuguqh 
+Quotient = 0.3333333333333333
+Aphorism: &%  
+Author: qery 
+Quotient = 1.0
+Proverb: x#n  
+Country: vjpsch 
+Quotient = 0.3333333333333333
+Aphorism: q-&grwcsze  
+Author: kjqnu 
+Quotient = 0.2
+Riddle: ,  
+Answer: hgdt 
+Quotient = 1.0
+Aphorism: *  
+Author: ehldz 
+Quotient = 1.0
+Aphorism: -#n(l  
+Author: ivoefedl 
+Quotient = 0.6
+Riddle: kws/   
+Answer: hnp 
+Quotient = 0.2
+Aphorism: axqw whm)+  
+Author: r 
+Quotient = 0.2
+Riddle: $d*  
+Answer: zoj 
+Quotient = 0.6666666666666666
+Aphorism: rf)rbeqot,k  
+Author: jimyopb 
+Quotient = 0.18181818181818182
+Riddle: h*-  
+Answer: b 
+Quotient = 0.6666666666666666
+Proverb: t.pwozgqjyg&ei/l  
+Country: ue 
+Quotient = 0.1875
+Proverb: %'  
+Country: h 
+Quotient = 1.0
+Aphorism: %  
+Author: gpgkea 
+Quotient = 1.0
+Aphorism: pd(.ks$  
+Author: kiz 
+Quotient = 0.42857142857142855
+Riddle: ph!yn'onmj&  
+Answer: uoc 
+Quotient = 0.2727272727272727
+Aphorism: 'z x,  
+Author: xytva 
+Quotient = 0.4
+Riddle: c*oyd&prskp  
+Answer: ocu 
+Quotient = 0.18181818181818182
+Aphorism: )sid  
+Author: eo 
+Quotient = 0.25
+Proverb: vb/  
+Country: inn 
+Quotient = 0.3333333333333333
+Proverb: kxnrar*vgdyv&,  
+Country: cu 
+Quotient = 0.21428571428571427
+Aphorism: %scoefc*yhvttl!  
+Author: xnamns 
+Quotient = 0.2
+Proverb: ,+  
+Country: uzniez 
+Quotient = 1.0
+Proverb: huft+d"  
+Country: lo 
+Quotient = 0.2857142857142857
+Proverb: -eii  
+Country: yan 
+Quotient = 0.25
+Aphorism: qls#z,  
+Author: yeuduf 
+Quotient = 0.3333333333333333
+Proverb: -%  
+Country: pbmwm 
+Quotient = 1.0
+Aphorism: y(gqcxgp.)  
+Author: hsador 
+Quotient = 0.3
+Proverb: wx(+a.  
+Country: nd 
+Quotient = 0.5
+Aphorism: j-n%g!ta  
+Author: eyjo 
+Quotient = 0.375
+Riddle: rxn*rt%xpq.  
+Answer: otke 
+Quotient = 0.2727272727272727
+Riddle: bl'bvjkqgo/ot,f  
+Answer: slpite 
+Quotient = 0.2
+Proverb: #  
+Country: fpnzva 
+Quotient = 1.0
+Riddle: du/!ia)  
+Answer: iwoh 
+Quotient = 0.42857142857142855
+Aphorism: !dmuwe!  
+Author: mormejie 
+Quotient = 0.2857142857142857
+Aphorism: r#  
+Author: fabjbrxs 
+Quotient = 0.5
+Riddle: fayd,wl.ofq  
+Answer: wth 
+Quotient = 0.18181818181818182
+Proverb: j-tmquayf#it.  
+Country: ur 
+Quotient = 0.23076923076923078
+Proverb: e.s.dtx)/  
+Country: foibbpuh 
+Quotient = 0.4444444444444444
+Aphorism: ph&!svjoaiz%,yccmgvp  
+Author: bpzwmlpv 
+Quotient = 0.2
+Riddle: rt*ia$   
+Answer: xbjtupm 
+Quotient = 0.2857142857142857
+Proverb: kt.ttqv)"  
+Country: uockodmt 
+Quotient = 0.3333333333333333
+Proverb: pkmy-&eut%fu%  
+Country: n 
+Quotient = 0.3076923076923077
+Aphorism: k&yvo#n!k  
+Author: khsq 
+Quotient = 0.3333333333333333
+Aphorism: )u+aqj+  
+Author: izfuj 
+Quotient = 0.42857142857142855
+Aphorism: ghc,bfvrwj#q&pliuev%  
+Author: d 
+Quotient = 0.2
+Aphorism: incnujfl-bk(u%  
+Author: cvy 
+Quotient = 0.21428571428571427
+Riddle: c)q+)  
+Answer: p 
+Quotient = 0.6
+Proverb: ky,ryr+  
+Country: hkhpsms 
+Quotient = 0.2857142857142857
+Proverb: op'suh(#m(  
+Country: kbyrop 
+Quotient = 0.4
+Proverb: r"ju  
+Country: mrbakh 
+Quotient = 0.25
+Aphorism: ybcnc&g#fhb  
+Author: woytiiq 
+Quotient = 0.18181818181818182
+Proverb: %g.s(-  
+Country: e 
+Quotient = 0.6666666666666666
+Aphorism: x(  
+Author: gdcf 
+Quotient = 0.5
+Riddle: gh%mp.'gn  
+Answer: ktjnnzoz 
+Quotient = 0.3333333333333333
+Proverb: -  
+Country: n 
+Quotient = 1.0
+Aphorism: n&lziviy"d.aba  
+Author: rrnpol 
+Quotient = 0.21428571428571427
+Riddle: ,n*vz*,  
+Answer: s 
+Quotient = 0.5714285714285714
+Riddle: c(  
+Answer: svak 
+Quotient = 0.5
+Proverb: m---  
+Country: mkrgia 
+Quotient = 0.75
+Proverb: ,rim#cvxqfmgnmnop&cf%  
+Country: mkspbq 
+Quotient = 0.19047619047619047
+Proverb: w()$sw  
+Country: ergzm 
+Quotient = 0.5
+Proverb: vljwjxxdzhczsldm$r&'#  
+Country: dgrf 
+Quotient = 0.19047619047619047
+Riddle: j.h)ij),  
+Answer: wcikl 
+Quotient = 0.5
+Proverb: $"h  
+Country: fapmhqzt 
+Quotient = 0.6666666666666666
+Riddle: tvq+(  
+Answer: ym 
+Quotient = 0.4
+Aphorism: r%*d  
+Author: xv 
+Quotient = 0.5
+Proverb: %  
+Country: owdgj 
+Quotient = 1.0
+Riddle: 'zwizaikyjm*'.  
+Answer: vexeyb 
+Quotient = 0.2857142857142857
+Proverb: '  
+Country: i 
+Quotient = 1.0
+Riddle: -  
+Answer: mvhr 
+Quotient = 1.0
+Riddle: yzmk*ox$b  
+Answer: s 
+Quotient = 0.2222222222222222
+Aphorism: -tbw%(pdzk  
+Author: cr 
+Quotient = 0.3
+Proverb: w!tohs%+  
+Country: aecka 
+Quotient = 0.375
+Riddle: iorqsoai(/h  
+Answer: lmgxeob 
+Quotient = 0.18181818181818182
+Aphorism: d p%'sl!  
+Author: shxavgp 
+Quotient = 0.375
+Riddle: )k*  
+Answer: vgovxrz 
+Quotient = 0.6666666666666666
+Aphorism: #  
+Author: ktjaxaz 
+Quotient = 1.0
+Proverb: syqd&kh#glvl+vvdvuyqp%  
+Country: tkpc 
+Quotient = 0.18181818181818182
+Riddle: t&cvr "t-x  
+Answer: lhdf 
+Quotient = 0.3
+Proverb: "fxujyh&xxb  
+Country: if 
+Quotient = 0.18181818181818182
+Aphorism: rqdz)t(s%s  
+Author: trk 
+Quotient = 0.3
+Proverb: ,c&frmgbv&  
+Country: mbtk 
+Quotient = 0.3
+Aphorism: %  
+Author: ju 
+Quotient = 1.0
+Riddle: qz d'/wvl  
+Answer: sc 
+Quotient = 0.2222222222222222
+Riddle: "  
+Answer: bcjqgd 
+Quotient = 1.0
+Riddle: qgk((pjwyguqqkyx/+ivq  
+Answer: vovnbbm 
+Quotient = 0.19047619047619047
+Riddle: !  
+Answer: nseumaqk 
+Quotient = 1.0
+Riddle: qw-obij(  
+Answer: akf 
+Quotient = 0.25
+Riddle: /#s+mi  
+Answer: m 
+Quotient = 0.5
+Riddle: e#   
+Answer: po 
+Quotient = 0.3333333333333333
+Aphorism: q/mo+.  
+Author: mhfiheqw 
+Quotient = 0.5
+Aphorism: jbc.  
+Author: fd 
+Quotient = 0.25
+Aphorism: *ly  
+Author: wlug 
+Quotient = 0.3333333333333333
+Riddle: #  
+Answer: s 
+Quotient = 1.0
+Riddle: b!l'(  
+Answer: ggk 
+Quotient = 0.6
+Aphorism: w'yuc&  
+Author: rolme 
+Quotient = 0.3333333333333333
+Riddle: %lnvh  
+Answer: sfdznfkl 
+Quotient = 0.2
+Proverb: ourh&  
+Country: jdyuc 
+Quotient = 0.2
+Aphorism: rz*btvt-qz(  
+Author: qtsa 
+Quotient = 0.2727272727272727
+Aphorism: xsv&.  
+Author: oisx 
+Quotient = 0.4
+Proverb: eznr+%+  
+Country: e 
+Quotient = 0.42857142857142855
+Aphorism: g&)qpbgujra/hhci  
+Author: mfvcqc 
+Quotient = 0.1875
+Proverb: irp%  
+Country: ibwydh 
+Quotient = 0.25
+Aphorism: $c  
+Author: wjnef 
+Quotient = 0.5
+Riddle: &thuun&  
+Answer: ntzhdwmk 
+Quotient = 0.2857142857142857
+Proverb: sa*za!noo  
+Country: oahnnecn 
+Quotient = 0.2222222222222222
+Riddle: dpwiegak+(  
+Answer: jbdt 
+Quotient = 0.2
+Proverb: *.  
+Country: zmuykh 
+Quotient = 1.0
+Aphorism: m(pl*qt+  
+Author: kkqjs 
+Quotient = 0.375
+Riddle: '"  
+Answer: q 
+Quotient = 1.0
+Proverb: !g-  
+Country: vljelab 
+Quotient = 0.6666666666666666
+Riddle: *  
+Answer: nqszhgt 
+Quotient = 1.0
+Riddle: n .  
+Answer: svaf 
+Quotient = 0.3333333333333333
+Proverb: wa,'rx/  
+Country: mrlqderk 
+Quotient = 0.42857142857142855
+Aphorism: dppnnadj.,pdzzm$k-  
+Author: qbqh 
+Quotient = 0.2222222222222222
+Aphorism: $  
+Author: vzg 
+Quotient = 1.0
+Proverb: ffbosfyyyoq$(f,  
+Country: snlx 
+Quotient = 0.2
+Proverb: lmtakc*l+  
+Country: bu 
+Quotient = 0.2222222222222222
+Proverb: $!r  
+Country: ot 
+Quotient = 0.6666666666666666
+Riddle: ib"  
+Answer: ggvbe 
+Quotient = 0.3333333333333333
+Aphorism: soq.)  
+Author: fygyu 
+Quotient = 0.4
+Proverb: ge*#  
+Country: wdcdm 
+Quotient = 0.5
+Proverb: p."  
+Country: tltirwzb 
+Quotient = 0.6666666666666666
+Aphorism: rlcpjph"hocyw&%.w  
+Author: ovpltzj 
+Quotient = 0.23529411764705882
+Aphorism: dncx#ula,tqnw&tic  
+Author: agujmj 
+Quotient = 0.17647058823529413
+Riddle: ymy*  
+Answer: efxaocxc 
+Quotient = 0.25
+Riddle: ftx*rn,cti(iwsi&  
+Answer: hvc 
+Quotient = 0.25
+Aphorism: zx"y'w"jwjxd.qdq  
+Author: jhhrb 
+Quotient = 0.25
+Aphorism: u+p(%pxrd  
+Author: enxn 
+Quotient = 0.3333333333333333
+Proverb: ,  
+Country: wifrcbw 
+Quotient = 1.0
+Proverb: *c  
+Country: gnlldlac 
+Quotient = 0.5
+Aphorism: v+w  
+Author: cfrapblc 
+Quotient = 0.3333333333333333
+Riddle: q$(umyidlon.  
+Answer: gmaka 
+Quotient = 0.25
+Riddle: #h'  
+Answer: tnt 
+Quotient = 0.6666666666666666
+Proverb: to&tpa.rem!asp  
+Country: vletztm 
+Quotient = 0.21428571428571427
+Aphorism: eesaw%me'jfjcvk"  
+Author: nvo 
+Quotient = 0.1875
+Riddle: &f,  
+Answer: lkzudy 
+Quotient = 0.6666666666666666
+Aphorism: co-&ikcfrtbc)(  
+Author: tpbu 
+Quotient = 0.2857142857142857
+Aphorism: tnepm&,bi-  
+Author: fjpu 
+Quotient = 0.3
+Aphorism: 'pmuj('ehrobztsk  
+Author: tjma 
+Quotient = 0.1875
+Riddle: ,%  
+Answer: dne 
+Quotient = 1.0
+Proverb: )  
+Country: cgabrxfm 
+Quotient = 1.0
+Aphorism: hej,fwh"rsji$vxsv(  
+Author: kudu 
+Quotient = 0.2222222222222222
+Proverb: alp&aqo.r)idh  
+Country: vuye 
+Quotient = 0.23076923076923078
+Riddle: !  
+Answer: xdouyg 
+Quotient = 1.0
+Riddle: p+#%  
+Answer: enljoyl 
+Quotient = 0.75
+Aphorism: gqysccsaa,h#scl/  
+Author: hsd 
+Quotient = 0.1875
+Aphorism: +(  
+Author: arlpsd 
+Quotient = 1.0
+Proverb: ohk& ippty)  
+Country: pqgack 
+Quotient = 0.18181818181818182
+Riddle: e(btu+y  
+Answer: aylahrsl 
+Quotient = 0.2857142857142857
+Proverb: uph!  
+Country: ahzi 
+Quotient = 0.25
+Proverb: oz#p/i  
+Country: ictjipp 
+Quotient = 0.3333333333333333
+Aphorism: khg!-g&cyfdgm#  
+Author: engbi 
+Quotient = 0.2857142857142857
+Aphorism: 'cyrz x#  
+Author: iobevbq 
+Quotient = 0.25
+Aphorism: i*dl  
+Author: oeeibot 
+Quotient = 0.25
+Proverb: v"jl&kk  
+Country: m 
+Quotient = 0.2857142857142857
+Proverb: 'j#f*i  
+Country: dyaixacj 
+Quotient = 0.5
+Riddle: bfzx n%dje.  
+Answer: kxmimh 
+Quotient = 0.18181818181818182
+Proverb: y*nu  
+Country: uy 
+Quotient = 0.25
+Riddle: ,z(siwize/)if  
+Answer: slkgt 
+Quotient = 0.3076923076923077
+Aphorism: f$!  
+Author: zewelou 
+Quotient = 0.6666666666666666
+Proverb: /  
+Country: syog 
+Quotient = 1.0
+Proverb: wbmfhartr!*eaza#  
+Country: px 
+Quotient = 0.1875
+Aphorism: tma/  
+Author: pivli 
+Quotient = 0.25
+Aphorism: &/  
+Author: xyuoluu 
+Quotient = 1.0
+Proverb: %px&  
+Country: dy 
+Quotient = 0.5
+Proverb: f!pvwevye!hi%*cadigfdu  
+Country: f 
+Quotient = 0.18181818181818182
+Aphorism: (n%  
+Author: aqcp 
+Quotient = 0.6666666666666666
+Proverb: xwgu.&  
+Country: srhd 
+Quotient = 0.3333333333333333
+Riddle: pjesidocl#-  
+Answer: y 
+Quotient = 0.18181818181818182
+Aphorism: n)).  
+Author: pfmkve 
+Quotient = 0.75
+Riddle: )*)  
+Answer: welr 
+Quotient = 1.0
+Riddle: )  
+Answer: zle 
+Quotient = 1.0
+Aphorism: b!+  
+Author: wf 
+Quotient = 0.6666666666666666
+Aphorism: #f&wab  
+Author: irlbcsk 
+Quotient = 0.3333333333333333
+Aphorism: qnp%gs&muvqw#m  
+Author: bvesd 
+Quotient = 0.21428571428571427
+Aphorism: nk#cx!+kbipdnpyixg"  
+Author: lai 
+Quotient = 0.21052631578947367
+Proverb: !  
+Country: gnw 
+Quotient = 1.0
+Aphorism: tph(mzwaq%pjoixc!lrv'  
+Author: pj 
+Quotient = 0.19047619047619047
+Proverb: xok-isgkotvqv"z!  
+Country: wi 
+Quotient = 0.1875
+Aphorism: *oksqs'%  
+Author: mjvkn 
+Quotient = 0.375
+Aphorism: laeb&-uukdq*narliqs!  
+Author: ueifuuu 
+Quotient = 0.2
+Aphorism: -  
+Author: sezuke 
+Quotient = 1.0
+Aphorism: ek*t!  
+Author: dcpl 
+Quotient = 0.4
+Proverb: x/-  
+Country: eygwe 
+Quotient = 0.6666666666666666
+Proverb: %  
+Country: msm 
+Quotient = 1.0
+Proverb: w')hnu)en  
+Country: ig 
+Quotient = 0.3333333333333333
+Proverb: xbtpo)$  
+Country: yzito 
+Quotient = 0.2857142857142857
+Aphorism: mftgcbxgrd+)!  
+Author: wepmq 
+Quotient = 0.23076923076923078
+Proverb: qeccfqw#$  
+Country: e 
+Quotient = 0.2222222222222222
+Riddle: ,  
+Answer: ydgdms 
+Quotient = 1.0
+Aphorism: (  
+Author: f 
+Quotient = 1.0
+Riddle: fww$  
+Answer: sbxy 
+Quotient = 0.25
+Aphorism: kcumqxuj*#zysl$  
+Author: jh 
+Quotient = 0.2
+Proverb: "vbeb yf&ga  
+Country: h 
+Quotient = 0.18181818181818182
+Proverb: i"qkj  
+Country: x 
+Quotient = 0.2
+Proverb: &#  
+Country: lkoorv 
+Quotient = 1.0
+Proverb: &odrozk-)  
+Country: fgfi 
+Quotient = 0.3333333333333333
+Proverb: )  
+Country: rfx 
+Quotient = 1.0

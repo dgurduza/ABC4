@@ -1,0 +1,45 @@
+Container is store 10 phrases:
+Proverb: Two wrongs don't make a right.  
+Country: Denmark 
+Quotient = 0.06666666666666667
+Aphorism: The pen is mightier than the sword.  
+Author: Ra 
+Quotient = 0.02857142857142857
+Riddle: When in Rome, do as the Romans.  
+Answer: Cesar 
+Quotient = 0.06451612903225806
+Riddle: The squeaky wheel gets the grease.  
+Answer: Deutchland 
+Quotient = 0.029411764705882353
+Proverb: When the going gets tough, the tough get going.  
+Country: No man is an island. 
+Quotient = 0.0425531914893617
+Aphorism: Your time is limited, so don’t waste it living someone else’s life  
+Author: Jobs 
+Quotient = 0.014285714285714285
+Aphorism: Always forgive your enemies; nothing annoys them so much.  
+Author: Oscar Wilde 
+Quotient = 0.03508771929824561
+Proverb: Don’t cross the bridge until you come to it.  
+Country: England 
+Quotient = 0.021739130434782608
+Aphorism: Success does not consist in never making mistakes but in never making the same one a second time.  
+Author: Bernard Shaw 
+Quotient = 0.010309278350515464
+Riddle: What gets wetter and wetter the more it dries?  
+Answer: towel 
+Quotient = 0.021739130434782608
+Arithmetic mean = 0.03348801532696379
+Container contains  = 4 phrase(s)
+Proverb: Two wrongs don't make a right.  
+Country: Denmark 
+Quotient = 0.06666666666666667
+Riddle: When in Rome, do as the Romans.  
+Answer: Cesar 
+Quotient = 0.06451612903225806
+Proverb: When the going gets tough, the tough get going.  
+Country: No man is an island. 
+Quotient = 0.0425531914893617
+Aphorism: Always forgive your enemies; nothing annoys them so much.  
+Author: Oscar Wilde 
+Quotient = 0.03508771929824561
